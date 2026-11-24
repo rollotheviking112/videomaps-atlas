@@ -2,6 +2,8 @@
 
 An interactive dark world map of history *videomaps* (plus still and interactive maps), built from the community “Best Videomaps list” Google Sheet. Drag the era slider through 30 eras, from before 2000 BCE to today; places with maps covering that era light up. Click a place to list its maps, and YouTube videos play inline.
 
+**Live site:** https://rollotheviking112.github.io/videomaps-atlas/
+
 ## Run it
 
 ```bash
@@ -11,6 +13,10 @@ npm run build        # static site in dist/ (npm run preview to serve it)
 ```
 
 No API keys, no paid services. Boundaries are Natural Earth 1:50m from the `world-atlas` npm package, bundled locally. The app never calls a geo API at runtime. The only external requests at runtime are Google Fonts, YouTube thumbnails, and the `youtube-nocookie.com` player when someone presses play.
+
+## Publishing
+
+`.github/workflows/pages.yml` builds the site and publishes it to GitHub Pages on every push to `main`. You can also run it by hand from the Actions tab. Asset paths are relative (`base: './'` in `vite.config.ts`), so the built `dist/` works from any URL path.
 
 ## Re-import the sheet
 
