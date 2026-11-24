@@ -1,0 +1,7561 @@
+[
+ {
+  "key": "World::The World",
+  "name": "The World",
+  "section": "World",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Continents::North America",
+  "name": "North America",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/North_America",
+  "kind": "group",
+  "countries": [
+   "Canada",
+   "United States of America",
+   "Mexico",
+   "Greenland",
+   "St. Pierre and Miquelon",
+   "Bermuda",
+   "Guatemala",
+   "Belize",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Costa Rica",
+   "Panama",
+   "Cuba",
+   "Jamaica",
+   "Haiti",
+   "Dominican Rep.",
+   "Puerto Rico",
+   "Bahamas",
+   "Trinidad and Tobago",
+   "Barbados",
+   "Grenada",
+   "Saint Lucia",
+   "St. Vin. and Gren.",
+   "Dominica",
+   "Antigua and Barb.",
+   "St. Kitts and Nevis",
+   "Cayman Is.",
+   "Turks and Caicos Is.",
+   "British Virgin Is.",
+   "U.S. Virgin Is.",
+   "Anguilla",
+   "Montserrat",
+   "Aruba",
+   "Curaçao",
+   "Sint Maarten",
+   "St-Martin",
+   "St-Barthélemy"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Continents::South America",
+  "name": "South America",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/South_America",
+  "kind": "group",
+  "countries": [
+   "Brazil",
+   "Argentina",
+   "Chile",
+   "Peru",
+   "Colombia",
+   "Venezuela",
+   "Ecuador",
+   "Bolivia",
+   "Paraguay",
+   "Uruguay",
+   "Guyana",
+   "Suriname",
+   "Falkland Is."
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Continents::Europe",
+  "name": "Europe",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Europe",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Continents::Africa",
+  "name": "Africa",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Africa",
+  "kind": "group",
+  "countries": [
+   "Algeria",
+   "Angola",
+   "Benin",
+   "Botswana",
+   "Burkina Faso",
+   "Burundi",
+   "Cameroon",
+   "Cabo Verde",
+   "Central African Rep.",
+   "Chad",
+   "Comoros",
+   "Congo",
+   "Dem. Rep. Congo",
+   "Djibouti",
+   "Egypt",
+   "Eq. Guinea",
+   "Eritrea",
+   "eSwatini",
+   "Ethiopia",
+   "Gabon",
+   "Gambia",
+   "Ghana",
+   "Guinea",
+   "Guinea-Bissau",
+   "Côte d'Ivoire",
+   "Kenya",
+   "Lesotho",
+   "Liberia",
+   "Libya",
+   "Madagascar",
+   "Malawi",
+   "Mali",
+   "Mauritania",
+   "Mauritius",
+   "Morocco",
+   "Mozambique",
+   "Namibia",
+   "Niger",
+   "Nigeria",
+   "Rwanda",
+   "São Tomé and Principe",
+   "Senegal",
+   "Seychelles",
+   "Sierra Leone",
+   "Somalia",
+   "Somaliland",
+   "South Africa",
+   "S. Sudan",
+   "Sudan",
+   "Tanzania",
+   "Togo",
+   "Tunisia",
+   "Uganda",
+   "W. Sahara",
+   "Zambia",
+   "Zimbabwe",
+   "Saint Helena"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Continents::Asia",
+  "name": "Asia",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Asia",
+  "kind": "group",
+  "countries": [
+   "Afghanistan",
+   "Armenia",
+   "Azerbaijan",
+   "Bahrain",
+   "Bangladesh",
+   "Bhutan",
+   "Brunei",
+   "Cambodia",
+   "China",
+   "Georgia",
+   "Hong Kong",
+   "Macao",
+   "India",
+   "Indonesia",
+   "Iran",
+   "Iraq",
+   "Israel",
+   "Japan",
+   "Jordan",
+   "Kazakhstan",
+   "Kuwait",
+   "Kyrgyzstan",
+   "Laos",
+   "Lebanon",
+   "Malaysia",
+   "Maldives",
+   "Mongolia",
+   "Myanmar",
+   "Nepal",
+   "North Korea",
+   "Oman",
+   "Pakistan",
+   "Palestine",
+   "Philippines",
+   "Qatar",
+   "Saudi Arabia",
+   "Singapore",
+   "South Korea",
+   "Sri Lanka",
+   "Syria",
+   "Taiwan",
+   "Tajikistan",
+   "Thailand",
+   "Timor-Leste",
+   "Turkey",
+   "Turkmenistan",
+   "United Arab Emirates",
+   "Uzbekistan",
+   "Vietnam",
+   "Yemen",
+   "Siachen Glacier"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Continents::Oceania",
+  "name": "Oceania",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Oceania",
+  "kind": "group",
+  "countries": [
+   "Australia",
+   "New Zealand",
+   "Papua New Guinea",
+   "Fiji",
+   "Solomon Is.",
+   "Vanuatu",
+   "New Caledonia",
+   "Samoa",
+   "American Samoa",
+   "Tonga",
+   "Kiribati",
+   "Micronesia",
+   "Marshall Is.",
+   "Palau",
+   "Nauru",
+   "Guam",
+   "N. Mariana Is.",
+   "Fr. Polynesia",
+   "Cook Is.",
+   "Niue",
+   "Wallis and Futuna Is.",
+   "Norfolk Island",
+   "Pitcairn Is."
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Continents::Antarctica",
+  "name": "Antarctica",
+  "section": "Continents",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Antarctica",
+  "kind": "group",
+  "countries": [
+   "Antarctica",
+   "Fr. S. Antarctic Lands",
+   "Heard I. and McDonald Is.",
+   "S. Geo. and the Is."
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Amazon",
+  "name": "Amazon",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+  "kind": "group",
+  "countries": [
+   "Brazil",
+   "Peru",
+   "Colombia",
+   "Bolivia",
+   "Ecuador",
+   "Venezuela",
+   "Guyana",
+   "Suriname"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Arabia",
+  "name": "Arabia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Arabian_Peninsula",
+  "kind": "group",
+  "countries": [
+   "Saudi Arabia",
+   "Yemen",
+   "Oman",
+   "United Arab Emirates",
+   "Qatar",
+   "Bahrain",
+   "Kuwait"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Arctic",
+  "name": "Arctic",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Arctic",
+  "kind": "group",
+  "countries": [
+   "Greenland",
+   "Iceland",
+   "Norway",
+   "Sweden",
+   "Finland",
+   "Russia",
+   "Canada"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Balkans",
+  "name": "Balkans",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Balkans",
+  "kind": "group",
+  "countries": [
+   "Slovenia",
+   "Croatia",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro",
+   "Kosovo",
+   "Albania",
+   "Macedonia",
+   "Bulgaria",
+   "Greece",
+   "Romania"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 5
+ },
+ {
+  "key": "Regions::Baltic",
+  "name": "Baltic",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Baltic_states",
+  "kind": "group",
+  "countries": [
+   "Estonia",
+   "Latvia",
+   "Lithuania"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Brazilian Shield",
+  "name": "Brazilian Shield",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Amazonian_Craton",
+  "kind": "pin",
+  "pin": [
+   -50,
+   -12
+  ],
+  "parent": "Brazil",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::British Isles",
+  "name": "British Isles",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/British_Isles",
+  "kind": "group",
+  "countries": [
+   "United Kingdom",
+   "Ireland",
+   "Isle of Man",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Caribbean",
+  "name": "Caribbean",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Caribbean",
+  "kind": "group",
+  "countries": [
+   "Cuba",
+   "Jamaica",
+   "Haiti",
+   "Dominican Rep.",
+   "Puerto Rico",
+   "Bahamas",
+   "Trinidad and Tobago",
+   "Barbados",
+   "Grenada",
+   "Saint Lucia",
+   "St. Vin. and Gren.",
+   "Dominica",
+   "Antigua and Barb.",
+   "St. Kitts and Nevis",
+   "Cayman Is.",
+   "Turks and Caicos Is.",
+   "British Virgin Is.",
+   "U.S. Virgin Is.",
+   "Anguilla",
+   "Montserrat",
+   "Aruba",
+   "Curaçao",
+   "Sint Maarten",
+   "St-Martin",
+   "St-Barthélemy"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Caucasus",
+  "name": "Caucasus",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Caucasus",
+  "kind": "group",
+  "countries": [
+   "Georgia",
+   "Armenia",
+   "Azerbaijan"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Central Asia",
+  "name": "Central Asia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Central_Asia",
+  "kind": "group",
+  "countries": [
+   "Kazakhstan",
+   "Uzbekistan",
+   "Turkmenistan",
+   "Kyrgyzstan",
+   "Tajikistan"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Regions::Dagestan",
+  "name": "Dagestan",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Dagestan",
+  "kind": "pin",
+  "pin": [
+   47,
+   42.8
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Eastern Mediterranean",
+  "name": "Eastern Mediterranean",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Eastern_Mediterranean",
+  "kind": "group",
+  "countries": [
+   "Greece",
+   "Turkey",
+   "Cyprus",
+   "N. Cyprus",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Egypt"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Fertile Crescent",
+  "name": "Fertile Crescent",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Fertile_Crescent",
+  "kind": "group",
+  "countries": [
+   "Iraq",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "Kuwait"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Regions::Hispaniola",
+  "name": "Hispaniola",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Hispaniola",
+  "kind": "group",
+  "countries": [
+   "Haiti",
+   "Dominican Rep."
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Iberia",
+  "name": "Iberia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Iberian_Peninsula",
+  "kind": "group",
+  "countries": [
+   "Spain",
+   "Portugal",
+   "Andorra"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Low Countries",
+  "name": "Low Countries",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Low_Countries",
+  "kind": "group",
+  "countries": [
+   "Netherlands",
+   "Belgium",
+   "Luxembourg"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Macaronesia",
+  "name": "Macaronesia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Macaronesia",
+  "kind": "pin",
+  "pin": [
+   -17,
+   30
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Maghreb",
+  "name": "Maghreb",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Maghreb",
+  "kind": "group",
+  "countries": [
+   "Morocco",
+   "Algeria",
+   "Tunisia",
+   "Libya",
+   "Mauritania",
+   "W. Sahara"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Malay Archipelago",
+  "name": "Malay Archipelago",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Malay_Archipelago",
+  "kind": "group",
+  "countries": [
+   "Indonesia",
+   "Malaysia",
+   "Philippines",
+   "Brunei",
+   "Timor-Leste",
+   "Singapore"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Mesoamerica",
+  "name": "Mesoamerica",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mesoamerica",
+  "kind": "group",
+  "countries": [
+   "Mexico",
+   "Guatemala",
+   "Belize",
+   "El Salvador",
+   "Honduras",
+   "Nicaragua",
+   "Costa Rica"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Middle East",
+  "name": "Middle East",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Middle_East",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "Iraq",
+   "Iran",
+   "Saudi Arabia",
+   "Yemen",
+   "Oman",
+   "United Arab Emirates",
+   "Qatar",
+   "Bahrain",
+   "Kuwait",
+   "Egypt",
+   "Cyprus",
+   "N. Cyprus"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Regions::Patagonia",
+  "name": "Patagonia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Patagonia",
+  "kind": "group",
+  "countries": [
+   "Argentina",
+   "Chile"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Pomerania",
+  "name": "Pomerania",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pomerania",
+  "kind": "pin",
+  "pin": [
+   15.5,
+   54
+  ],
+  "parent": "Poland",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Scandinavia",
+  "name": "Scandinavia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Scandinavia",
+  "kind": "group",
+  "countries": [
+   "Norway",
+   "Sweden",
+   "Denmark"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Silesia",
+  "name": "Silesia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Silesia",
+  "kind": "pin",
+  "pin": [
+   17,
+   50.8
+  ],
+  "parent": "Poland",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Southeast Asia",
+  "name": "Southeast Asia",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Southeast_Asia",
+  "kind": "group",
+  "countries": [
+   "Myanmar",
+   "Thailand",
+   "Laos",
+   "Cambodia",
+   "Vietnam",
+   "Indonesia",
+   "Malaysia",
+   "Philippines",
+   "Brunei",
+   "Timor-Leste",
+   "Singapore"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Southern Africa",
+  "name": "Southern Africa",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Southern_Africa",
+  "kind": "group",
+  "countries": [
+   "South Africa",
+   "Namibia",
+   "Botswana",
+   "Zimbabwe",
+   "Mozambique",
+   "Lesotho",
+   "eSwatini",
+   "Zambia",
+   "Malawi",
+   "Angola"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Southern Cone",
+  "name": "Southern Cone",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Southern_Cone",
+  "kind": "group",
+  "countries": [
+   "Argentina",
+   "Chile",
+   "Uruguay",
+   "Paraguay"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::West Africa",
+  "name": "West Africa",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/West_Africa",
+  "kind": "group",
+  "countries": [
+   "Senegal",
+   "Gambia",
+   "Guinea-Bissau",
+   "Guinea",
+   "Sierra Leone",
+   "Liberia",
+   "Côte d'Ivoire",
+   "Ghana",
+   "Togo",
+   "Benin",
+   "Nigeria",
+   "Niger",
+   "Burkina Faso",
+   "Mali",
+   "Mauritania",
+   "Cabo Verde"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Regions::Western Europe",
+  "name": "Western Europe",
+  "section": "Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Western_Europe",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Belgium",
+   "Netherlands",
+   "Luxembourg",
+   "Germany",
+   "Switzerland",
+   "Austria",
+   "United Kingdom",
+   "Ireland",
+   "Spain",
+   "Portugal",
+   "Italy",
+   "Monaco",
+   "Liechtenstein",
+   "Andorra"
+  ],
+  "method": "region-config",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Afghanistan",
+  "name": "Afghanistan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Afghanistan",
+  "kind": "country",
+  "countries": [
+   "Afghanistan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 5
+ },
+ {
+  "key": "Countries::Albania",
+  "name": "Albania",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Albania",
+  "kind": "country",
+  "countries": [
+   "Albania"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Argentina (Total)",
+  "name": "Argentina (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Argentina",
+  "kind": "country",
+  "countries": [
+   "Argentina"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Armenia",
+  "name": "Armenia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Armenia",
+  "kind": "country",
+  "countries": [
+   "Armenia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Australia",
+  "name": "Australia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Australia",
+  "kind": "country",
+  "countries": [
+   "Australia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 4
+ },
+ {
+  "key": "Countries::Australia (Tiwi Islands)",
+  "name": "Australia (Tiwi Islands)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Tiwi_Islands",
+  "kind": "pin",
+  "pin": [
+   130.8,
+   -11.6
+  ],
+  "parent": "Australia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Austria",
+  "name": "Austria",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Austria",
+  "kind": "country",
+  "countries": [
+   "Austria"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Azerbaijan",
+  "name": "Azerbaijan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Azerbaijan",
+  "kind": "country",
+  "countries": [
+   "Azerbaijan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Bahamas",
+  "name": "Bahamas",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/The_Bahamas",
+  "kind": "country",
+  "countries": [
+   "Bahamas"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Belarus",
+  "name": "Belarus",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Belarus",
+  "kind": "country",
+  "countries": [
+   "Belarus"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Belgium",
+  "name": "Belgium",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Belgium",
+  "kind": "country",
+  "countries": [
+   "Belgium"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Bhutan",
+  "name": "Bhutan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bhutan",
+  "kind": "country",
+  "countries": [
+   "Bhutan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Bolivia",
+  "name": "Bolivia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bolivia",
+  "kind": "country",
+  "countries": [
+   "Bolivia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Bosnia and Herzegovina",
+  "name": "Bosnia and Herzegovina",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+  "kind": "country",
+  "countries": [
+   "Bosnia and Herz."
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Brazil",
+  "name": "Brazil",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Brazil",
+  "kind": "country",
+  "countries": [
+   "Brazil"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Brazil (Marajó)",
+  "name": "Brazil (Marajó)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Maraj%C3%B3",
+  "kind": "pin",
+  "pin": [
+   -49.5,
+   -1
+  ],
+  "parent": "Brazil",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Brazil (Midwest)",
+  "name": "Brazil (Midwest)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   -54,
+   -15
+  ],
+  "parent": "Brazil",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Brazil (Northeast)",
+  "name": "Brazil (Northeast)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   -39.5,
+   -8
+  ],
+  "parent": "Brazil",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Bulgaria",
+  "name": "Bulgaria",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bulgaria",
+  "kind": "country",
+  "countries": [
+   "Bulgaria"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Cambodia",
+  "name": "Cambodia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cambodia",
+  "kind": "country",
+  "countries": [
+   "Cambodia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Canada",
+  "name": "Canada",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Canada",
+  "kind": "country",
+  "countries": [
+   "Canada"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Canada (w. First Nation claims)",
+  "name": "Canada (w. First Nation claims)",
+  "section": "Countries",
+  "kind": "country",
+  "countries": [
+   "Canada"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Canada (Québec)",
+  "name": "Canada (Québec)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Quebec",
+  "kind": "pin",
+  "pin": [
+   -72,
+   52
+  ],
+  "parent": "Canada",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Central African Republic",
+  "name": "Central African Republic",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Central_African_Republic",
+  "kind": "country",
+  "countries": [
+   "Central African Rep."
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Chile (Araucania)",
+  "name": "Chile (Araucania)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Araucan%C3%ADa_Region",
+  "kind": "pin",
+  "pin": [
+   -72.5,
+   -38.6
+  ],
+  "parent": "Chile",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::China (Total)",
+  "name": "China (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/China",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::China (Manchuria)",
+  "name": "China (Manchuria)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Manchuria",
+  "kind": "pin",
+  "pin": [
+   126.5,
+   45.5
+  ],
+  "parent": "China",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::China (Tibet)",
+  "name": "China (Tibet)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Tibet",
+  "kind": "pin",
+  "pin": [
+   88.5,
+   31.5
+  ],
+  "parent": "China",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Colombia",
+  "name": "Colombia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Colombia",
+  "kind": "country",
+  "countries": [
+   "Colombia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Comoros",
+  "name": "Comoros",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Comoros",
+  "kind": "country",
+  "countries": [
+   "Comoros"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Congo",
+  "name": "Congo",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+  "kind": "country",
+  "countries": [
+   "Congo"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Cook Islands",
+  "name": "Cook Islands",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cook_Islands",
+  "kind": "country",
+  "countries": [
+   "Cook Is."
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Costa Rica",
+  "name": "Costa Rica",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Costa_Rica",
+  "kind": "country",
+  "countries": [
+   "Costa Rica"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Croatia",
+  "name": "Croatia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Croatia",
+  "kind": "country",
+  "countries": [
+   "Croatia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Cuba",
+  "name": "Cuba",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cuba",
+  "kind": "country",
+  "countries": [
+   "Cuba"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Cyprus",
+  "name": "Cyprus",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cyprus",
+  "kind": "country",
+  "countries": [
+   "Cyprus"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Czech Republic",
+  "name": "Czech Republic",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Czech_Republic",
+  "kind": "country",
+  "countries": [
+   "Czechia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Denmark",
+  "name": "Denmark",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Denmark",
+  "kind": "country",
+  "countries": [
+   "Denmark"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Denmark (Faroe Islands)",
+  "name": "Denmark (Faroe Islands)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Faroe_Islands",
+  "kind": "country",
+  "countries": [
+   "Faeroe Is."
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Denmark (Greenland)",
+  "name": "Denmark (Greenland)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Greenland",
+  "kind": "country",
+  "countries": [
+   "Greenland"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Denmark (Greenland w. Hans Island)",
+  "name": "Denmark (Greenland w. Hans Island)",
+  "section": "Countries",
+  "kind": "country",
+  "countries": [
+   "Greenland"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Djibouti",
+  "name": "Djibouti",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Djibouti",
+  "kind": "country",
+  "countries": [
+   "Djibouti"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::DR Congo",
+  "name": "DR Congo",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo",
+  "kind": "country",
+  "countries": [
+   "Dem. Rep. Congo"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Ethiopia",
+  "name": "Ethiopia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Ethiopia",
+  "kind": "country",
+  "countries": [
+   "Ethiopia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Finland",
+  "name": "Finland",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Finland",
+  "kind": "country",
+  "countries": [
+   "Finland"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::France (Total)",
+  "name": "France (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/France",
+  "kind": "country",
+  "countries": [
+   "France"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::France (Corsica)",
+  "name": "France (Corsica)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Corsica",
+  "kind": "pin",
+  "pin": [
+   9.1,
+   42.1
+  ],
+  "parent": "France",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Germany",
+  "name": "Germany",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Germany",
+  "kind": "country",
+  "countries": [
+   "Germany"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Germany (Bavaria)",
+  "name": "Germany (Bavaria)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bavaria",
+  "kind": "pin",
+  "pin": [
+   11.5,
+   48.8
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Germany (Brandenburg)",
+  "name": "Germany (Brandenburg)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Brandenburg",
+  "kind": "pin",
+  "pin": [
+   13.2,
+   52.4
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Germany (East)",
+  "name": "Germany (East)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/East_Germany",
+  "kind": "pin",
+  "pin": [
+   12.6,
+   51.8
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Germany (Fürstenberg)",
+  "name": "Germany (Fürstenberg)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Principality_of_F%C3%BCrstenberg",
+  "kind": "pin",
+  "pin": [
+   8.5,
+   47.95
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Germany (Wied)",
+  "name": "Germany (Wied)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/County_of_Wied",
+  "kind": "pin",
+  "pin": [
+   7.45,
+   50.45
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Ghana",
+  "name": "Ghana",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Ghana",
+  "kind": "country",
+  "countries": [
+   "Ghana"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Total)",
+  "name": "Greece (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Greece",
+  "kind": "country",
+  "countries": [
+   "Greece"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Carian Coast)",
+  "name": "Greece (Carian Coast)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   27.6,
+   37.2
+  ],
+  "parent": "Turkey",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Central)",
+  "name": "Greece (Central)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   22.5,
+   38.7
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Corfu)",
+  "name": "Greece (Corfu)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Corfu",
+  "kind": "pin",
+  "pin": [
+   19.9,
+   39.6
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Corinth)",
+  "name": "Greece (Corinth)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   22.93,
+   37.94
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Greek Isles)",
+  "name": "Greece (Greek Isles)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   25.3,
+   37.1
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Megaris)",
+  "name": "Greece (Megaris)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Megaris",
+  "kind": "pin",
+  "pin": [
+   23.35,
+   38
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Peloponnese)",
+  "name": "Greece (Peloponnese)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Peloponnese",
+  "kind": "pin",
+  "pin": [
+   22.2,
+   37.4
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Greece (Thessaly)",
+  "name": "Greece (Thessaly)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Thessaly",
+  "kind": "pin",
+  "pin": [
+   22.2,
+   39.5
+  ],
+  "parent": "Greece",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Hungary",
+  "name": "Hungary",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Hungary",
+  "kind": "country",
+  "countries": [
+   "Hungary"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Iceland",
+  "name": "Iceland",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Iceland",
+  "kind": "country",
+  "countries": [
+   "Iceland"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Iceland (w. accurate glaciers)",
+  "name": "Iceland (w. accurate glaciers)",
+  "section": "Countries",
+  "kind": "country",
+  "countries": [
+   "Iceland"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::India (Total)",
+  "name": "India (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/India",
+  "kind": "country",
+  "countries": [
+   "India"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::India (Deccan)",
+  "name": "India (Deccan)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Deccan_Plateau",
+  "kind": "pin",
+  "pin": [
+   77.5,
+   17
+  ],
+  "parent": "India",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::India (North)",
+  "name": "India (North)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   79,
+   27.5
+  ],
+  "parent": "India",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Intia (North-West)",
+  "name": "Intia (North-West)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   74,
+   29.5
+  ],
+  "parent": "India",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::India (South)",
+  "name": "India (South)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   78,
+   11
+  ],
+  "parent": "India",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Bali)",
+  "name": "Indonesia (Bali)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bali",
+  "kind": "pin",
+  "pin": [
+   115.2,
+   -8.4
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Borneo)",
+  "name": "Indonesia (Borneo)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Borneo",
+  "kind": "pin",
+  "pin": [
+   114,
+   0.5
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Java)",
+  "name": "Indonesia (Java)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Java",
+  "kind": "pin",
+  "pin": [
+   110,
+   -7.4
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Siau-Tagulandang-Biaro)",
+  "name": "Indonesia (Siau-Tagulandang-Biaro)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   125.4,
+   2.6
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Sulawesi)",
+  "name": "Indonesia (Sulawesi)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sulawesi",
+  "kind": "pin",
+  "pin": [
+   120.5,
+   -2
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Indonesia (Sumatra)",
+  "name": "Indonesia (Sumatra)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sumatra",
+  "kind": "pin",
+  "pin": [
+   101.5,
+   -0.5
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Iran",
+  "name": "Iran",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Iran",
+  "kind": "country",
+  "countries": [
+   "Iran"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Ireland",
+  "name": "Ireland",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+  "kind": "country",
+  "countries": [
+   "Ireland"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Israel",
+  "name": "Israel",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Israel",
+  "kind": "country",
+  "countries": [
+   "Israel"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Total)",
+  "name": "Italy (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Italy",
+  "kind": "country",
+  "countries": [
+   "Italy"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Del Carretto & Marquisate of Finale)",
+  "name": "Italy (Del Carretto & Marquisate of Finale)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Marquisate_of_Finale",
+  "kind": "pin",
+  "pin": [
+   8.33,
+   44.17
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Magna Graecia)",
+  "name": "Italy (Magna Graecia)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Magna_Graecia",
+  "kind": "pin",
+  "pin": [
+   16.5,
+   39.5
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Malaspina of Lunigiana)",
+  "name": "Italy (Malaspina of Lunigiana)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   9.95,
+   44.25
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Noli, Savona & Varazze)",
+  "name": "Italy (Noli, Savona & Varazze)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   8.45,
+   44.3
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Sicily)",
+  "name": "Italy (Sicily)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sicily",
+  "kind": "pin",
+  "pin": [
+   14.1,
+   37.5
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Valsassina & Lecco)",
+  "name": "Italy (Valsassina & Lecco)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   9.45,
+   45.95
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Italy (Venetian Mainland)",
+  "name": "Italy (Venetian Mainland)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   11.8,
+   45.55
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Jamaica",
+  "name": "Jamaica",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Jamaica",
+  "kind": "country",
+  "countries": [
+   "Jamaica"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Japan",
+  "name": "Japan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Japan",
+  "kind": "country",
+  "countries": [
+   "Japan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 8
+ },
+ {
+  "key": "Countries::Jordan",
+  "name": "Jordan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Jordan",
+  "kind": "country",
+  "countries": [
+   "Jordan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Kazakhstan",
+  "name": "Kazakhstan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Kazakhstan",
+  "kind": "country",
+  "countries": [
+   "Kazakhstan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Kuwait",
+  "name": "Kuwait",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Kuwait",
+  "kind": "country",
+  "countries": [
+   "Kuwait"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Kyrgyzstan",
+  "name": "Kyrgyzstan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Kyrgyzstan",
+  "kind": "country",
+  "countries": [
+   "Kyrgyzstan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Laos",
+  "name": "Laos",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Laos",
+  "kind": "country",
+  "countries": [
+   "Laos"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Latvia",
+  "name": "Latvia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Latvia",
+  "kind": "country",
+  "countries": [
+   "Latvia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Liberia",
+  "name": "Liberia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Liberia",
+  "kind": "country",
+  "countries": [
+   "Liberia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Liechtenstein",
+  "name": "Liechtenstein",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Liechtenstein",
+  "kind": "country",
+  "countries": [
+   "Liechtenstein"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Lithuania",
+  "name": "Lithuania",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Lithuania",
+  "kind": "country",
+  "countries": [
+   "Lithuania"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Luxembourg",
+  "name": "Luxembourg",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Luxembourg",
+  "kind": "country",
+  "countries": [
+   "Luxembourg"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Malaysia",
+  "name": "Malaysia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Malaysia",
+  "kind": "country",
+  "countries": [
+   "Malaysia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Mali",
+  "name": "Mali",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mali",
+  "kind": "country",
+  "countries": [
+   "Mali"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Malta",
+  "name": "Malta",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Malta",
+  "kind": "country",
+  "countries": [
+   "Malta"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Mexico",
+  "name": "Mexico",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mexico",
+  "kind": "country",
+  "countries": [
+   "Mexico"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Micronesia (FSM) (Pohnpei)",
+  "name": "Micronesia (FSM) (Pohnpei)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pohnpei",
+  "kind": "pin",
+  "pin": [
+   158.2,
+   6.9
+  ],
+  "parent": "Micronesia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Monaco",
+  "name": "Monaco",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Monaco",
+  "kind": "country",
+  "countries": [
+   "Monaco"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Mongolia",
+  "name": "Mongolia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mongolia",
+  "kind": "country",
+  "countries": [
+   "Mongolia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Montenegro",
+  "name": "Montenegro",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Montenegro",
+  "kind": "country",
+  "countries": [
+   "Montenegro"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Myanmar",
+  "name": "Myanmar",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Myanmar",
+  "kind": "country",
+  "countries": [
+   "Myanmar"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 5
+ },
+ {
+  "key": "Countries::Namibia",
+  "name": "Namibia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Namibia",
+  "kind": "country",
+  "countries": [
+   "Namibia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Nauru",
+  "name": "Nauru",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Nauru",
+  "kind": "country",
+  "countries": [
+   "Nauru"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Nepal",
+  "name": "Nepal",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Nepal",
+  "kind": "country",
+  "countries": [
+   "Nepal"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::New Zealand",
+  "name": "New Zealand",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/New_Zealand",
+  "kind": "country",
+  "countries": [
+   "New Zealand"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::New Zealand (Chatham Islands)",
+  "name": "New Zealand (Chatham Islands)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Chatham_Islands",
+  "kind": "pin",
+  "pin": [
+   -176.5,
+   -44
+  ],
+  "parent": "New Zealand",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Niue",
+  "name": "Niue",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Niue",
+  "kind": "country",
+  "countries": [
+   "Niue"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::North Korea",
+  "name": "North Korea",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/North_Korea",
+  "kind": "country",
+  "countries": [
+   "North Korea"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 4
+ },
+ {
+  "key": "Countries::Northern Cyprus",
+  "name": "Northern Cyprus",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Northern_Cyprus",
+  "kind": "country",
+  "countries": [
+   "N. Cyprus"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Pakistan",
+  "name": "Pakistan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pakistan",
+  "kind": "country",
+  "countries": [
+   "Pakistan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Palestine",
+  "name": "Palestine",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/State_of_Palestine",
+  "kind": "country",
+  "countries": [
+   "Palestine"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Panama",
+  "name": "Panama",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Panama",
+  "kind": "country",
+  "countries": [
+   "Panama"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Papua New Guinea",
+  "name": "Papua New Guinea",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+  "kind": "country",
+  "countries": [
+   "Papua New Guinea"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Paraguay",
+  "name": "Paraguay",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Paraguay",
+  "kind": "country",
+  "countries": [
+   "Paraguay"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Peru",
+  "name": "Peru",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Peru",
+  "kind": "country",
+  "countries": [
+   "Peru"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Philippines",
+  "name": "Philippines",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Philippines",
+  "kind": "country",
+  "countries": [
+   "Philippines"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Poland",
+  "name": "Poland",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Poland",
+  "kind": "country",
+  "countries": [
+   "Poland"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 4
+ },
+ {
+  "key": "Countries::Romania",
+  "name": "Romania",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Romania",
+  "kind": "country",
+  "countries": [
+   "Romania"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Russia (Total)",
+  "name": "Russia (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Russia",
+  "kind": "country",
+  "countries": [
+   "Russia"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Russia (Arctic)",
+  "name": "Russia (Arctic)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   90,
+   72
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Russia (Kaliningrad)",
+  "name": "Russia (Kaliningrad)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Kaliningrad_Oblast",
+  "kind": "pin",
+  "pin": [
+   21,
+   54.7
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Russia (Tuva)",
+  "name": "Russia (Tuva)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Tuva",
+  "kind": "pin",
+  "pin": [
+   94.5,
+   51.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Samoa",
+  "name": "Samoa",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Samoa",
+  "kind": "country",
+  "countries": [
+   "Samoa"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::San Marino",
+  "name": "San Marino",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/San_Marino",
+  "kind": "country",
+  "countries": [
+   "San Marino"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Saudi Arabia",
+  "name": "Saudi Arabia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+  "kind": "country",
+  "countries": [
+   "Saudi Arabia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Senegal",
+  "name": "Senegal",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Senegal",
+  "kind": "country",
+  "countries": [
+   "Senegal"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Serbia",
+  "name": "Serbia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Serbia",
+  "kind": "country",
+  "countries": [
+   "Serbia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Slovakia",
+  "name": "Slovakia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Slovakia",
+  "kind": "country",
+  "countries": [
+   "Slovakia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Slovenia",
+  "name": "Slovenia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Slovenia",
+  "kind": "country",
+  "countries": [
+   "Slovenia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Somalia",
+  "name": "Somalia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Somalia",
+  "kind": "country",
+  "countries": [
+   "Somalia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::South Africa",
+  "name": "South Africa",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/South_Africa",
+  "kind": "country",
+  "countries": [
+   "South Africa"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::South Korea",
+  "name": "South Korea",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/South_Korea",
+  "kind": "country",
+  "countries": [
+   "South Korea"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::South Sudan",
+  "name": "South Sudan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/South_Sudan",
+  "kind": "country",
+  "countries": [
+   "S. Sudan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Sri Lanka",
+  "name": "Sri Lanka",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sri_Lanka",
+  "kind": "country",
+  "countries": [
+   "Sri Lanka"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Sudan (Total)",
+  "name": "Sudan (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sudan",
+  "kind": "country",
+  "countries": [
+   "Sudan"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 4
+ },
+ {
+  "key": "Countries::Sudan (Darfur)",
+  "name": "Sudan (Darfur)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Darfur",
+  "kind": "pin",
+  "pin": [
+   24.5,
+   13
+  ],
+  "parent": "Sudan",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Switzerland",
+  "name": "Switzerland",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Switzerland",
+  "kind": "country",
+  "countries": [
+   "Switzerland"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Syria",
+  "name": "Syria",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Syria",
+  "kind": "country",
+  "countries": [
+   "Syria"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Taiwan",
+  "name": "Taiwan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Taiwan",
+  "kind": "country",
+  "countries": [
+   "Taiwan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Thailand",
+  "name": "Thailand",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Thailand",
+  "kind": "country",
+  "countries": [
+   "Thailand"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Tunisia",
+  "name": "Tunisia",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Tunisia",
+  "kind": "country",
+  "countries": [
+   "Tunisia"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Turkey (Total)",
+  "name": "Turkey (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Turkey",
+  "kind": "country",
+  "countries": [
+   "Turkey"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Turkey (Bithynia)",
+  "name": "Turkey (Bithynia)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Bithynia",
+  "kind": "pin",
+  "pin": [
+   30.5,
+   40.5
+  ],
+  "parent": "Turkey",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Turkey (Western Anatolia)",
+  "name": "Turkey (Western Anatolia)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   28.5,
+   38.5
+  ],
+  "parent": "Turkey",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Uganda",
+  "name": "Uganda",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Uganda",
+  "kind": "country",
+  "countries": [
+   "Uganda"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Ukraine",
+  "name": "Ukraine",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Ukraine",
+  "kind": "country",
+  "countries": [
+   "Ukraine"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 4
+ },
+ {
+  "key": "Countries::United Kingdom (Falkland Islands)",
+  "name": "United Kingdom (Falkland Islands)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Falkland_Islands",
+  "kind": "country",
+  "countries": [
+   "Falkland Is."
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::United Kingdom (Scotland)",
+  "name": "United Kingdom (Scotland)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Scotland",
+  "kind": "pin",
+  "pin": [
+   -4.2,
+   56.8
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United Kingdom (Wales)",
+  "name": "United Kingdom (Wales)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Wales",
+  "kind": "pin",
+  "pin": [
+   -3.7,
+   52.3
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Total)",
+  "name": "United States (Total)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/United_States",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "country-total",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::United States (Global View)",
+  "name": "United States (Global View)",
+  "section": "Countries",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Total w. Indians)",
+  "name": "United States (Total w. Indians)",
+  "section": "Countries",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Alaska)",
+  "name": "United States (Alaska)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Alaska",
+  "kind": "pin",
+  "pin": [
+   -152,
+   64
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Great Plains)",
+  "name": "United States (Great Plains)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Great_Plains",
+  "kind": "pin",
+  "pin": [
+   -101,
+   41
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::United States (Hawaii)",
+  "name": "United States (Hawaii)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Hawaii",
+  "kind": "pin",
+  "pin": [
+   -157,
+   20.8
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Mid-Atlantic)",
+  "name": "United States (Mid-Atlantic)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)",
+  "kind": "pin",
+  "pin": [
+   -76,
+   40
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Midwest)",
+  "name": "United States (Midwest)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Midwestern_United_States",
+  "kind": "pin",
+  "pin": [
+   -90,
+   42
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Navajo)",
+  "name": "United States (Navajo)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Navajo_Nation",
+  "kind": "pin",
+  "pin": [
+   -109.5,
+   36.2
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (North Florida)",
+  "name": "United States (North Florida)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/North_Florida",
+  "kind": "pin",
+  "pin": [
+   -83,
+   30.2
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::United States (Northeast)",
+  "name": "United States (Northeast)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Northeastern_United_States",
+  "kind": "pin",
+  "pin": [
+   -73,
+   42.8
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Pacific Northwest)",
+  "name": "United States (Pacific Northwest)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+  "kind": "pin",
+  "pin": [
+   -121,
+   46
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Puerto Rico)",
+  "name": "United States (Puerto Rico)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Puerto_Rico",
+  "kind": "country",
+  "countries": [
+   "Puerto Rico"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (South Florida)",
+  "name": "United States (South Florida)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/South_Florida",
+  "kind": "pin",
+  "pin": [
+   -80.8,
+   26.2
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Southeast)",
+  "name": "United States (Southeast)",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Southeastern_United_States",
+  "kind": "pin",
+  "pin": [
+   -83.5,
+   33.5
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::United States (Upper South)",
+  "name": "United States (Upper South)",
+  "section": "Countries",
+  "kind": "pin",
+  "pin": [
+   -86,
+   36.6
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Uruguay",
+  "name": "Uruguay",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Uruguay",
+  "kind": "country",
+  "countries": [
+   "Uruguay"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Uzbekistan",
+  "name": "Uzbekistan",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Uzbekistan",
+  "kind": "country",
+  "countries": [
+   "Uzbekistan"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 2
+ },
+ {
+  "key": "Countries::Vatican City",
+  "name": "Vatican City",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Vatican_City",
+  "kind": "country",
+  "countries": [
+   "Vatican"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Countries::Vietnam",
+  "name": "Vietnam",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Vietnam",
+  "kind": "country",
+  "countries": [
+   "Vietnam"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 3
+ },
+ {
+  "key": "Countries::Yemen",
+  "name": "Yemen",
+  "section": "Countries",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yemen",
+  "kind": "country",
+  "countries": [
+   "Yemen"
+  ],
+  "method": "country-name",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Micronations::Molossia",
+  "name": "Molossia",
+  "section": "Micronations",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Republic_of_Molossia",
+  "kind": "pin",
+  "pin": [
+   -119.6,
+   39.3
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Micronations::Sealand",
+  "name": "Sealand",
+  "section": "Micronations",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Principality_of_Sealand",
+  "kind": "pin",
+  "pin": [
+   1.48,
+   51.9
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Royal Houses::House of Habsburg",
+  "name": "House of Habsburg",
+  "section": "Royal Houses",
+  "wikiUrl": "https://en.wikipedia.org/wiki/House_of_Habsburg",
+  "kind": "group",
+  "countries": [
+   "Austria",
+   "Hungary",
+   "Czechia",
+   "Slovakia",
+   "Slovenia",
+   "Croatia",
+   "Spain",
+   "Belgium",
+   "Netherlands"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Royal Houses::House of Liechtenstein",
+  "name": "House of Liechtenstein",
+  "section": "Royal Houses",
+  "wikiUrl": "https://en.wikipedia.org/wiki/House_of_Liechtenstein",
+  "kind": "group",
+  "countries": [
+   "Liechtenstein",
+   "Austria"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Royal Houses::European Monarchs",
+  "name": "European Monarchs",
+  "section": "Royal Houses",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Sub-Regions::Hakkari",
+  "name": "Hakkari",
+  "section": "Sub-Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Hakkari_(historical_region)",
+  "kind": "pin",
+  "pin": [
+   43.7,
+   37.5
+  ],
+  "parent": "Turkey",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Sub-Regions::Iraq and Khuzestan",
+  "name": "Iraq and Khuzestan",
+  "section": "Sub-Regions",
+  "kind": "group",
+  "countries": [
+   "Iraq",
+   "Iran"
+  ],
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Sub-Regions::Pembrokeshire",
+  "name": "Pembrokeshire",
+  "section": "Sub-Regions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pembrokeshire",
+  "kind": "pin",
+  "pin": [
+   -4.9,
+   51.85
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "exact",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::European Union",
+  "name": "European Union",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/European_Union",
+  "kind": "group",
+  "countries": [
+   "Austria",
+   "Belgium",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Ireland",
+   "Italy",
+   "Latvia",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Netherlands",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::NATO",
+  "name": "NATO",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/NATO",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Belgium",
+   "Bulgaria",
+   "Canada",
+   "Croatia",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Italy",
+   "Latvia",
+   "Lithuania",
+   "Luxembourg",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Turkey",
+   "United Kingdom",
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::OTS",
+  "name": "OTS",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Organization_of_Turkic_States",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Azerbaijan",
+   "Kazakhstan",
+   "Kyrgyzstan",
+   "Uzbekistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::CIS",
+  "name": "CIS",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Belarus",
+   "Armenia",
+   "Azerbaijan",
+   "Kazakhstan",
+   "Kyrgyzstan",
+   "Moldova",
+   "Tajikistan",
+   "Uzbekistan",
+   "Turkmenistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::United Nations",
+  "name": "United Nations",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/United_Nations",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::League of Nations",
+  "name": "League of Nations",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/League_of_Nations",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::African Union",
+  "name": "African Union",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/African_Union",
+  "kind": "group",
+  "countries": [
+   "Algeria",
+   "Angola",
+   "Benin",
+   "Botswana",
+   "Burkina Faso",
+   "Burundi",
+   "Cameroon",
+   "Cabo Verde",
+   "Central African Rep.",
+   "Chad",
+   "Comoros",
+   "Congo",
+   "Dem. Rep. Congo",
+   "Djibouti",
+   "Egypt",
+   "Eq. Guinea",
+   "Eritrea",
+   "eSwatini",
+   "Ethiopia",
+   "Gabon",
+   "Gambia",
+   "Ghana",
+   "Guinea",
+   "Guinea-Bissau",
+   "Côte d'Ivoire",
+   "Kenya",
+   "Lesotho",
+   "Liberia",
+   "Libya",
+   "Madagascar",
+   "Malawi",
+   "Mali",
+   "Mauritania",
+   "Mauritius",
+   "Morocco",
+   "Mozambique",
+   "Namibia",
+   "Niger",
+   "Nigeria",
+   "Rwanda",
+   "São Tomé and Principe",
+   "Senegal",
+   "Seychelles",
+   "Sierra Leone",
+   "Somalia",
+   "Somaliland",
+   "South Africa",
+   "S. Sudan",
+   "Sudan",
+   "Tanzania",
+   "Togo",
+   "Tunisia",
+   "Uganda",
+   "W. Sahara",
+   "Zambia",
+   "Zimbabwe",
+   "Saint Helena"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::Arab League",
+  "name": "Arab League",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Arab_League",
+  "kind": "group",
+  "countries": [
+   "Algeria",
+   "Bahrain",
+   "Comoros",
+   "Djibouti",
+   "Egypt",
+   "Iraq",
+   "Jordan",
+   "Kuwait",
+   "Lebanon",
+   "Libya",
+   "Mauritania",
+   "Morocco",
+   "Oman",
+   "Palestine",
+   "Qatar",
+   "Saudi Arabia",
+   "Somalia",
+   "Sudan",
+   "Syria",
+   "Tunisia",
+   "United Arab Emirates",
+   "Yemen"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::OPEC",
+  "name": "OPEC",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/OPEC",
+  "kind": "group",
+  "countries": [
+   "Algeria",
+   "Congo",
+   "Eq. Guinea",
+   "Gabon",
+   "Iran",
+   "Iraq",
+   "Kuwait",
+   "Libya",
+   "Nigeria",
+   "Saudi Arabia",
+   "United Arab Emirates",
+   "Venezuela"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::ASEAN",
+  "name": "ASEAN",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/ASEAN",
+  "kind": "group",
+  "countries": [
+   "Brunei",
+   "Cambodia",
+   "Indonesia",
+   "Laos",
+   "Malaysia",
+   "Myanmar",
+   "Philippines",
+   "Singapore",
+   "Thailand",
+   "Vietnam",
+   "Timor-Leste"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Alliances/Unions::Union of South American Nations",
+  "name": "Union of South American Nations",
+  "section": "Alliances/Unions",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Union_of_South_American_Nations",
+  "kind": "group",
+  "countries": [
+   "Argentina",
+   "Bolivia",
+   "Brazil",
+   "Chile",
+   "Colombia",
+   "Ecuador",
+   "Guyana",
+   "Paraguay",
+   "Peru",
+   "Suriname",
+   "Uruguay",
+   "Venezuela"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Civil Rights::Slavery in the US",
+  "name": "Slavery in the US",
+  "section": "Civil Rights",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Slavery_in_the_United_States",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Civil Rights::The Americas",
+  "name": "The Americas",
+  "section": "Civil Rights",
+  "kind": "group",
+  "countries": [
+   "Canada",
+   "United States of America",
+   "Mexico",
+   "Greenland",
+   "St. Pierre and Miquelon",
+   "Bermuda",
+   "Guatemala",
+   "Belize",
+   "Honduras",
+   "El Salvador",
+   "Nicaragua",
+   "Costa Rica",
+   "Panama",
+   "Cuba",
+   "Jamaica",
+   "Haiti",
+   "Dominican Rep.",
+   "Puerto Rico",
+   "Bahamas",
+   "Trinidad and Tobago",
+   "Barbados",
+   "Grenada",
+   "Saint Lucia",
+   "St. Vin. and Gren.",
+   "Dominica",
+   "Antigua and Barb.",
+   "St. Kitts and Nevis",
+   "Cayman Is.",
+   "Turks and Caicos Is.",
+   "British Virgin Is.",
+   "U.S. Virgin Is.",
+   "Anguilla",
+   "Montserrat",
+   "Aruba",
+   "Curaçao",
+   "Sint Maarten",
+   "St-Martin",
+   "St-Barthélemy",
+   "Brazil",
+   "Argentina",
+   "Chile",
+   "Peru",
+   "Colombia",
+   "Venezuela",
+   "Ecuador",
+   "Bolivia",
+   "Paraguay",
+   "Uruguay",
+   "Guyana",
+   "Suriname",
+   "Falkland Is."
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Canals::White Sea Canal",
+  "name": "White Sea Canal",
+  "section": "Canals",
+  "wikiUrl": "https://en.wikipedia.org/wiki/White_Sea%E2%80%93Baltic_Canal",
+  "kind": "pin",
+  "pin": [
+   34.8,
+   63.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Canals::Panama Canal",
+  "name": "Panama Canal",
+  "section": "Canals",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Panama_Canal",
+  "kind": "pin",
+  "pin": [
+   -79.7,
+   9.1
+  ],
+  "parent": "Panama",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Canals::Suez Canal",
+  "name": "Suez Canal",
+  "section": "Canals",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Canal",
+  "kind": "pin",
+  "pin": [
+   32.35,
+   30.6
+  ],
+  "parent": "Egypt",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Mongol Empire",
+  "name": "Mongol Empire",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Mongolia",
+   "China",
+   "Russia",
+   "Kazakhstan",
+   "Iran",
+   "Iraq",
+   "Afghanistan",
+   "Uzbekistan",
+   "Turkmenistan",
+   "Kyrgyzstan",
+   "Tajikistan",
+   "Ukraine",
+   "Georgia",
+   "Armenia",
+   "Azerbaijan",
+   "North Korea",
+   "South Korea"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Historical::Middle Assyrian Empire",
+  "name": "Middle Assyrian Empire",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Iraq",
+   "Syria",
+   "Turkey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Republic of Ragusa",
+  "name": "Republic of Ragusa",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   18.1,
+   42.65
+  ],
+  "parent": "Croatia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Raja Ampat Kingdoms",
+  "name": "Raja Ampat Kingdoms",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   130.5,
+   -0.5
+  ],
+  "parent": "Indonesia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Roman World",
+  "name": "Roman World",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France",
+   "Spain",
+   "Portugal",
+   "Greece",
+   "Turkey",
+   "Egypt",
+   "Tunisia",
+   "Libya",
+   "Algeria",
+   "Morocco",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "United Kingdom",
+   "Belgium",
+   "Switzerland",
+   "Austria",
+   "Croatia",
+   "Slovenia",
+   "Serbia",
+   "Bulgaria",
+   "Romania",
+   "Albania",
+   "Bosnia and Herz.",
+   "Montenegro",
+   "Macedonia",
+   "Hungary",
+   "Cyprus",
+   "N. Cyprus",
+   "Malta",
+   "Luxembourg",
+   "Kosovo"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Byzantine Interregnum",
+  "name": "Byzantine Interregnum",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Greece",
+   "Turkey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Scottish Colony of Nova Scotia",
+  "name": "Scottish Colony of Nova Scotia",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Scottish_colonization_of_the_Americas#Nova_Scotia_(1621)",
+  "kind": "pin",
+  "pin": [
+   -63,
+   45
+  ],
+  "parent": "Canada",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Gaza Empire",
+  "name": "Gaza Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Gaza_Empire",
+  "kind": "group",
+  "countries": [
+   "Mozambique",
+   "Zimbabwe"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::The Zulu",
+  "name": "The Zulu",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   31,
+   -28.3
+  ],
+  "parent": "South Africa",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Nabataean Kingdom",
+  "name": "Nabataean Kingdom",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Nabataean_Kingdom",
+  "kind": "group",
+  "countries": [
+   "Jordan",
+   "Saudi Arabia",
+   "Israel"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Fouta Djallon",
+  "name": "Fouta Djallon",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   -12,
+   11.3
+  ],
+  "parent": "Guinea",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Samorian State",
+  "name": "Samorian State",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Samorian_state",
+  "kind": "group",
+  "countries": [
+   "Guinea",
+   "Mali",
+   "Côte d'Ivoire"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Caliphate of Hamdallaye",
+  "name": "Caliphate of Hamdallaye",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   -4,
+   14.5
+  ],
+  "parent": "Mali",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Umarian Empire",
+  "name": "Umarian Empire",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Mali",
+   "Senegal",
+   "Guinea"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Maya (Classical)",
+  "name": "Maya (Classical)",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Maya_civilization",
+  "kind": "group",
+  "countries": [
+   "Mexico",
+   "Guatemala",
+   "Belize",
+   "Honduras"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Mixtec",
+  "name": "Mixtec",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Mixtec_culture",
+  "kind": "pin",
+  "pin": [
+   -97.5,
+   17.3
+  ],
+  "parent": "Mexico",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Rise of the Ancient Celts",
+  "name": "Rise of the Ancient Celts",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Celts",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Germany",
+   "Austria",
+   "Switzerland",
+   "Czechia",
+   "United Kingdom",
+   "Ireland",
+   "Spain"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Loss of Native American Lands",
+  "name": "Loss of Native American Lands",
+  "section": "Historical",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Samnites",
+  "name": "Samnites",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Samnites",
+  "kind": "pin",
+  "pin": [
+   14.5,
+   41.5
+  ],
+  "parent": "Italy",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Rise of Romans in Italy",
+  "name": "Rise of Romans in Italy",
+  "section": "Historical",
+  "kind": "country",
+  "countries": [
+   "Italy"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Lobi Resistance to Colonialism",
+  "name": "Lobi Resistance to Colonialism",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Burkina Faso",
+   "Côte d'Ivoire"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Oyo Empire",
+  "name": "Oyo Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Oyo_Empire",
+  "kind": "group",
+  "countries": [
+   "Nigeria",
+   "Benin"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Franks",
+  "name": "Franks",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Franks",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Germany",
+   "Belgium",
+   "Netherlands",
+   "Switzerland"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 5
+ },
+ {
+  "key": "Historical::Teutonic Order",
+  "name": "Teutonic Order",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order",
+  "kind": "group",
+  "countries": [
+   "Poland",
+   "Lithuania",
+   "Latvia",
+   "Estonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Scottish Clans",
+  "name": "Scottish Clans",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Scottish_clan",
+  "kind": "pin",
+  "pin": [
+   -4.6,
+   57
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Ancient Romania",
+  "name": "Ancient Romania",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Romania",
+   "Moldova"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Crusader States",
+  "name": "Crusader States",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Crusader_states",
+  "kind": "group",
+  "countries": [
+   "Israel",
+   "Palestine",
+   "Lebanon",
+   "Syria"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Crusader States in Greece",
+  "name": "Crusader States in Greece",
+  "section": "Historical",
+  "kind": "country",
+  "countries": [
+   "Greece"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Balkan Tribes",
+  "name": "Balkan Tribes",
+  "section": "Historical",
+  "kind": "group",
+  "countries": [
+   "Slovenia",
+   "Croatia",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro",
+   "Kosovo",
+   "Albania",
+   "Macedonia",
+   "Bulgaria",
+   "Greece",
+   "Romania"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Almoravids",
+  "name": "Almoravids",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Almoravid_dynasty",
+  "kind": "group",
+  "countries": [
+   "Morocco",
+   "Mauritania",
+   "W. Sahara",
+   "Algeria",
+   "Spain",
+   "Portugal"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Flevoland & the Zuiderzee Works",
+  "name": "Flevoland & the Zuiderzee Works",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   5.5,
+   52.5
+  ],
+  "parent": "Netherlands",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Yugoslavia",
+  "name": "Yugoslavia",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yugoslavia",
+  "kind": "group",
+  "countries": [
+   "Slovenia",
+   "Croatia",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro",
+   "Kosovo",
+   "Macedonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Soviet Union",
+  "name": "Soviet Union",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Soviet_Union",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Ukraine",
+   "Belarus",
+   "Moldova",
+   "Estonia",
+   "Latvia",
+   "Lithuania",
+   "Georgia",
+   "Armenia",
+   "Azerbaijan",
+   "Kazakhstan",
+   "Uzbekistan",
+   "Turkmenistan",
+   "Kyrgyzstan",
+   "Tajikistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Blackfoot Confederacy",
+  "name": "Blackfoot Confederacy",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Blackfoot_Confederacy",
+  "kind": "pin",
+  "pin": [
+   -112.5,
+   49.5
+  ],
+  "parent": "Canada",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Wabanaki Confederacy",
+  "name": "Wabanaki Confederacy",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Wabanaki_Confederacy",
+  "kind": "pin",
+  "pin": [
+   -68.5,
+   45.5
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Aztec Empire",
+  "name": "Aztec Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Aztec_Empire",
+  "kind": "pin",
+  "pin": [
+   -99.1,
+   19.4
+  ],
+  "parent": "Mexico",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Teotihuacan",
+  "name": "Teotihuacan",
+  "section": "Historical",
+  "kind": "pin",
+  "pin": [
+   -98.84,
+   19.69
+  ],
+  "parent": "Mexico",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Holy Roman Empire",
+  "name": "Holy Roman Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Holy_Roman_Empire",
+  "kind": "group",
+  "countries": [
+   "Germany",
+   "Austria",
+   "Czechia",
+   "Switzerland",
+   "Netherlands",
+   "Belgium",
+   "Luxembourg",
+   "Liechtenstein",
+   "Slovenia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Byzantine Empire",
+  "name": "Byzantine Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Byzantine_Empire",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Greece",
+   "Bulgaria",
+   "Cyprus",
+   "Macedonia",
+   "Albania"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Historical::The Romans",
+  "name": "The Romans",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Roman_people",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France",
+   "Spain",
+   "Portugal",
+   "Greece",
+   "Turkey",
+   "Egypt",
+   "Tunisia",
+   "Libya",
+   "Algeria",
+   "Morocco",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "United Kingdom",
+   "Belgium",
+   "Switzerland",
+   "Austria",
+   "Croatia",
+   "Slovenia",
+   "Serbia",
+   "Bulgaria",
+   "Romania",
+   "Albania",
+   "Bosnia and Herz.",
+   "Montenegro",
+   "Macedonia",
+   "Hungary",
+   "Cyprus",
+   "N. Cyprus",
+   "Malta",
+   "Luxembourg",
+   "Kosovo"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Achaemenid Empire",
+  "name": "Achaemenid Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+  "kind": "group",
+  "countries": [
+   "Iran",
+   "Iraq",
+   "Turkey",
+   "Syria",
+   "Egypt",
+   "Afghanistan",
+   "Pakistan",
+   "Turkmenistan",
+   "Uzbekistan",
+   "Armenia",
+   "Azerbaijan",
+   "Jordan",
+   "Israel",
+   "Palestine",
+   "Lebanon"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Diadochi",
+  "name": "Diadochi",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Diadochi",
+  "kind": "group",
+  "countries": [
+   "Greece",
+   "Turkey",
+   "Egypt",
+   "Syria",
+   "Iraq",
+   "Iran",
+   "Macedonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Göktürks",
+  "name": "Göktürks",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks",
+  "kind": "group",
+  "countries": [
+   "Mongolia",
+   "Kazakhstan",
+   "Kyrgyzstan",
+   "Uzbekistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Avar Khaganate",
+  "name": "Avar Khaganate",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Pannonian_Avars",
+  "kind": "group",
+  "countries": [
+   "Hungary",
+   "Serbia",
+   "Romania",
+   "Slovakia",
+   "Austria",
+   "Croatia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Zanzibar",
+  "name": "Zanzibar",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Zanzibar",
+  "kind": "pin",
+  "pin": [
+   39.3,
+   -6.1
+  ],
+  "parent": "Tanzania",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Maratha Empire",
+  "name": "Maratha Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Maratha_Empire",
+  "kind": "country",
+  "countries": [
+   "India"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Timurids",
+  "name": "Timurids",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Timurid_Empire",
+  "kind": "group",
+  "countries": [
+   "Uzbekistan",
+   "Iran",
+   "Afghanistan",
+   "Turkmenistan",
+   "Tajikistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Nanyue",
+  "name": "Nanyue",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Nanyue",
+  "kind": "pin",
+  "pin": [
+   112,
+   23
+  ],
+  "parent": "China",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Khanate of Kazan",
+  "name": "Khanate of Kazan",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Khanate_of_Kazan",
+  "kind": "pin",
+  "pin": [
+   49.1,
+   55.8
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Aq Qoyunlu",
+  "name": "Aq Qoyunlu",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Aq_Qoyunlu",
+  "kind": "group",
+  "countries": [
+   "Iran",
+   "Iraq",
+   "Turkey",
+   "Azerbaijan",
+   "Armenia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Uyghur Khaganate",
+  "name": "Uyghur Khaganate",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Uyghur_Khaganate",
+  "kind": "country",
+  "countries": [
+   "Mongolia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Tibetan Empire",
+  "name": "Tibetan Empire",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Tibetan_Empire",
+  "kind": "pin",
+  "pin": [
+   91,
+   30.5
+  ],
+  "parent": "China",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Golden Horde",
+  "name": "Golden Horde",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Golden_Horde",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Kazakhstan",
+   "Ukraine"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Oirats",
+  "name": "Oirats",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Oirats",
+  "kind": "group",
+  "countries": [
+   "Mongolia",
+   "Kazakhstan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Yuan Dynasty",
+  "name": "Yuan Dynasty",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+  "kind": "group",
+  "countries": [
+   "China",
+   "Mongolia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Chagatai Khanate",
+  "name": "Chagatai Khanate",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Chagatai_Khanate",
+  "kind": "group",
+  "countries": [
+   "Kazakhstan",
+   "Uzbekistan",
+   "Turkmenistan",
+   "Kyrgyzstan",
+   "Tajikistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Historical::Ilkhanate",
+  "name": "Ilkhanate",
+  "section": "Historical",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Ilkhanate",
+  "kind": "group",
+  "countries": [
+   "Iran",
+   "Iraq",
+   "Azerbaijan",
+   "Armenia",
+   "Turkmenistan",
+   "Afghanistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Kipchak Turks",
+  "name": "Kipchak Turks",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Kipchaks",
+  "kind": "group",
+  "countries": [
+   "Kazakhstan",
+   "Kyrgyzstan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Selkups",
+  "name": "Selkups",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Selkup_people",
+  "kind": "pin",
+  "pin": [
+   83,
+   60
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Dolgans",
+  "name": "Dolgans",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Dolgans",
+  "kind": "pin",
+  "pin": [
+   100,
+   71
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Enets",
+  "name": "Enets",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Enets",
+  "kind": "pin",
+  "pin": [
+   86,
+   69.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Five Civilized Tribes",
+  "name": "Five Civilized Tribes",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Five_Civilized_Tribes",
+  "kind": "pin",
+  "pin": [
+   -96,
+   35.5
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Cherokee",
+  "name": "Cherokee",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cherokee",
+  "kind": "pin",
+  "pin": [
+   -84,
+   35
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Lezgins",
+  "name": "Lezgins",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Lezgins",
+  "kind": "pin",
+  "pin": [
+   48,
+   41.6
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Laks of Dagestan",
+  "name": "Laks of Dagestan",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Laks_(Caucasus)",
+  "kind": "pin",
+  "pin": [
+   47.1,
+   42.1
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Sorbs",
+  "name": "Sorbs",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Sorbs",
+  "kind": "pin",
+  "pin": [
+   14.3,
+   51.4
+  ],
+  "parent": "Germany",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Modern Peoples::Cossacks",
+  "name": "Cossacks",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cossacks",
+  "kind": "group",
+  "countries": [
+   "Ukraine",
+   "Russia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Dargins of Dagestan",
+  "name": "Dargins of Dagestan",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Dargins",
+  "kind": "pin",
+  "pin": [
+   47.4,
+   42.4
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Circassians",
+  "name": "Circassians",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Circassians",
+  "kind": "pin",
+  "pin": [
+   40,
+   44.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Modern Peoples::Sakhas (Yakuts)",
+  "name": "Sakhas (Yakuts)",
+  "section": "Modern Peoples",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yakuts",
+  "kind": "pin",
+  "pin": [
+   129,
+   64
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Post WW2 conflicts",
+  "name": "Post WW2 conflicts",
+  "section": "Wars",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Ossetian-Ingush Conflict",
+  "name": "Ossetian-Ingush Conflict",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/East_Prigorodny_conflict",
+  "kind": "pin",
+  "pin": [
+   44.8,
+   43.1
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Lebanese Civil War",
+  "name": "Lebanese Civil War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Lebanese_Civil_War",
+  "kind": "country",
+  "countries": [
+   "Lebanon"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::2003 Invasion of Iraq",
+  "name": "2003 Invasion of Iraq",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/2003_invasion_of_Iraq",
+  "kind": "country",
+  "countries": [
+   "Iraq"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Iraq War (2003-2011)",
+  "name": "Iraq War (2003-2011)",
+  "section": "Wars",
+  "kind": "country",
+  "countries": [
+   "Iraq"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Russo-Japanese War",
+  "name": "Russo-Japanese War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Russo-Japanese_War",
+  "kind": "pin",
+  "pin": [
+   123.5,
+   40.5
+  ],
+  "parent": "China",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Japanese Invasion of Taiwan",
+  "name": "Japanese Invasion of Taiwan",
+  "section": "Wars",
+  "kind": "country",
+  "countries": [
+   "Taiwan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::American Civil War",
+  "name": "American Civil War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/American_Civil_War",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Syrian Civil War and Spillover",
+  "name": "Syrian Civil War and Spillover",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Syrian_civil_war",
+  "kind": "group",
+  "countries": [
+   "Syria",
+   "Iraq",
+   "Lebanon"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Hittite-Syrian Wars",
+  "name": "Hittite-Syrian Wars",
+  "section": "Wars",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Syria"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Roman Conquest of Anatolia",
+  "name": "Roman Conquest of Anatolia",
+  "section": "Wars",
+  "kind": "country",
+  "countries": [
+   "Turkey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Roman conquest of Greece",
+  "name": "Roman conquest of Greece",
+  "section": "Wars",
+  "kind": "country",
+  "countries": [
+   "Greece"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Cold War",
+  "name": "Cold War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Cold_War",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Yugoslav Wars",
+  "name": "Yugoslav Wars",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yugoslav_Wars",
+  "kind": "group",
+  "countries": [
+   "Slovenia",
+   "Croatia",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro",
+   "Kosovo",
+   "Macedonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Franco-Prussian War",
+  "name": "Franco-Prussian War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Franco-Prussian_War",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Germany"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Austro-Prussian War",
+  "name": "Austro-Prussian War",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Austro-Prussian_War",
+  "kind": "group",
+  "countries": [
+   "Austria",
+   "Germany",
+   "Czechia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Napoleonic Wars",
+  "name": "Napoleonic Wars",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Campaign of France 1813-14",
+  "name": "Campaign of France 1813-14",
+  "section": "Wars",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Germany"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::French Revolution",
+  "name": "French Revolution",
+  "section": "Wars",
+  "wikiUrl": "https://en.wikipedia.org/wiki/French_Revolution",
+  "kind": "country",
+  "countries": [
+   "France"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Modern Europe",
+  "name": "Modern Europe",
+  "section": "Wars",
+  "subsection": "Lists of Conflicts",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Invasion of Belgium & Luxembourg",
+  "name": "Invasion of Belgium & Luxembourg",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Belgium",
+   "Luxembourg"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Revolution Alsace-Lorraine",
+  "name": "Revolution Alsace-Lorraine",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "pin",
+  "pin": [
+   7.4,
+   48.6
+  ],
+  "parent": "France",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Eastern European Front",
+  "name": "Eastern European Front",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Poland",
+   "Lithuania",
+   "Latvia",
+   "Belarus",
+   "Ukraine",
+   "Romania"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Wars::Armenian Highland & Caucasus",
+  "name": "Armenian Highland & Caucasus",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Armenia",
+   "Turkey",
+   "Georgia",
+   "Azerbaijan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Burundi and Rwanda",
+  "name": "Burundi and Rwanda",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Burundi",
+   "Rwanda"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Benin and Togo",
+  "name": "Benin and Togo",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Benin",
+   "Togo"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Mali and Burkina Faso",
+  "name": "Mali and Burkina Faso",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Mali",
+   "Burkina Faso"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Mozambique",
+  "name": "Mozambique",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "country",
+  "countries": [
+   "Mozambique"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Middle East",
+  "name": "Middle East",
+  "section": "Wars",
+  "subsection": "WW1 (1914-1918)",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "Iraq",
+   "Iran",
+   "Saudi Arabia",
+   "Yemen",
+   "Oman",
+   "United Arab Emirates",
+   "Qatar",
+   "Bahrain",
+   "Kuwait",
+   "Egypt",
+   "Cyprus",
+   "N. Cyprus"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Operation Barbarossa",
+  "name": "Operation Barbarossa",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Ukraine",
+   "Belarus",
+   "Lithuania",
+   "Latvia",
+   "Estonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::War of Annih. (B. of Stalingrad & Caucasus)",
+  "name": "War of Annih. (B. of Stalingrad & Caucasus)",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "pin",
+  "pin": [
+   44.5,
+   48.7
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::North Africa",
+  "name": "North Africa",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "group",
+  "countries": [
+   "Libya",
+   "Egypt",
+   "Tunisia",
+   "Algeria",
+   "Morocco"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::War of Annihilation (Siege of Leningrad)",
+  "name": "War of Annihilation (Siege of Leningrad)",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "pin",
+  "pin": [
+   30.3,
+   59.9
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Western European Front",
+  "name": "Western European Front",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Belgium",
+   "Netherlands",
+   "Luxembourg",
+   "Germany"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Pacific War",
+  "name": "Pacific War",
+  "section": "Wars",
+  "subsection": "WW2 (1939-1945)",
+  "kind": "group",
+  "countries": [
+   "Japan",
+   "China",
+   "Philippines",
+   "Indonesia",
+   "Papua New Guinea",
+   "Myanmar",
+   "Malaysia",
+   "Thailand",
+   "Vietnam",
+   "Solomon Is."
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::European Front",
+  "name": "European Front",
+  "section": "Wars",
+  "subsection": "Revolutions of 1917-1923",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Ukraine",
+   "Belarus",
+   "Poland",
+   "Finland",
+   "Estonia",
+   "Latvia",
+   "Lithuania"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Central Asian Front",
+  "name": "Central Asian Front",
+  "section": "Wars",
+  "subsection": "Revolutions of 1917-1923",
+  "kind": "group",
+  "countries": [
+   "Kazakhstan",
+   "Uzbekistan",
+   "Turkmenistan",
+   "Kyrgyzstan",
+   "Tajikistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Far Eastern Front",
+  "name": "Far Eastern Front",
+  "section": "Wars",
+  "subsection": "Revolutions of 1917-1923",
+  "kind": "pin",
+  "pin": [
+   135,
+   48.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Silesian Uprisings",
+  "name": "Silesian Uprisings",
+  "section": "Wars",
+  "subsection": "Revolutions of 1917-1923",
+  "kind": "pin",
+  "pin": [
+   18.7,
+   50.3
+  ],
+  "parent": "Poland",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Seven Years' War",
+  "name": "Seven Years' War",
+  "section": "Wars",
+  "subsection": "Seven Years' War (1756-1763)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Seven_Years%27_War",
+  "kind": "group",
+  "countries": [
+   "United Kingdom",
+   "France",
+   "Germany",
+   "Austria",
+   "Russia",
+   "Canada",
+   "United States of America",
+   "India",
+   "Spain",
+   "Portugal",
+   "Sweden"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::French and Indian War",
+  "name": "French and Indian War",
+  "section": "Wars",
+  "subsection": "Seven Years' War (1756-1763)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/French_and_Indian_War",
+  "kind": "group",
+  "countries": [
+   "United States of America",
+   "Canada"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::War of 1812",
+  "name": "War of 1812",
+  "section": "Wars",
+  "subsection": "War of 1812 (1812-1815)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/War_of_1812",
+  "kind": "group",
+  "countries": [
+   "United States of America",
+   "Canada"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Gulf of Mexico",
+  "name": "Gulf of Mexico",
+  "section": "Wars",
+  "subsection": "War of 1812 (1812-1815)",
+  "kind": "pin",
+  "pin": [
+   -89,
+   29.8
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Chesapeake Bay",
+  "name": "Chesapeake Bay",
+  "section": "Wars",
+  "subsection": "War of 1812 (1812-1815)",
+  "kind": "pin",
+  "pin": [
+   -76.2,
+   38.5
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Two Chechen Wars",
+  "name": "Two Chechen Wars",
+  "section": "Wars",
+  "subsection": "Chechen-Russian Conflict (recent phase; 1991-2017)",
+  "kind": "pin",
+  "pin": [
+   45.7,
+   43.2
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 3
+ },
+ {
+  "key": "Wars::Chechen Civil War",
+  "name": "Chechen Civil War",
+  "section": "Wars",
+  "subsection": "Chechen-Russian Conflict (recent phase; 1991-2017)",
+  "kind": "pin",
+  "pin": [
+   45.6,
+   43
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Battle of Grozny 1994",
+  "name": "Battle of Grozny 1994",
+  "section": "Wars",
+  "subsection": "Chechen-Russian Conflict (recent phase; 1991-2017)",
+  "kind": "pin",
+  "pin": [
+   45.7,
+   43.32
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::War of Dagestan & Chechen Insurgency",
+  "name": "War of Dagestan & Chechen Insurgency",
+  "section": "Wars",
+  "subsection": "Chechen-Russian Conflict (recent phase; 1991-2017)",
+  "kind": "pin",
+  "pin": [
+   46.6,
+   42.9
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Donbas War",
+  "name": "Donbas War",
+  "section": "Wars",
+  "subsection": "Russo-Ukrainian War (2014-present)",
+  "kind": "pin",
+  "pin": [
+   38.5,
+   48.1
+  ],
+  "parent": "Ukraine",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Russian invasion of Ukraine",
+  "name": "Russian invasion of Ukraine",
+  "section": "Wars",
+  "subsection": "Russo-Ukrainian War (2014-present)",
+  "kind": "country",
+  "countries": [
+   "Ukraine"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Edwardian Phase",
+  "name": "Edwardian Phase",
+  "section": "Wars",
+  "subsection": "Hundred Years' War (1337-1453)",
+  "kind": "group",
+  "countries": [
+   "France",
+   "United Kingdom"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Peace of Brétigny",
+  "name": "Peace of Brétigny",
+  "section": "Wars",
+  "subsection": "Hundred Years' War (1337-1453)",
+  "kind": "group",
+  "countries": [
+   "France",
+   "United Kingdom"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Caroline Phase",
+  "name": "Caroline Phase",
+  "section": "Wars",
+  "subsection": "Hundred Years' War (1337-1453)",
+  "kind": "group",
+  "countries": [
+   "France",
+   "United Kingdom"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Truce of Leulinghem",
+  "name": "Truce of Leulinghem",
+  "section": "Wars",
+  "subsection": "Hundred Years' War (1337-1453)",
+  "kind": "group",
+  "countries": [
+   "France",
+   "United Kingdom"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::First Italian War",
+  "name": "First Italian War",
+  "section": "Wars",
+  "subsection": "Italian Wars",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Second Italian War",
+  "name": "Second Italian War",
+  "section": "Wars",
+  "subsection": "Italian Wars",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Third Italian War",
+  "name": "Third Italian War",
+  "section": "Wars",
+  "subsection": "Italian Wars",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::1948 Arab-Israeli War",
+  "name": "1948 Arab-Israeli War",
+  "section": "Wars",
+  "subsection": "Arab–Israeli conflict (1948-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War",
+  "kind": "group",
+  "countries": [
+   "Israel",
+   "Palestine",
+   "Egypt",
+   "Jordan",
+   "Syria",
+   "Lebanon"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Wars::Suez Crisis",
+  "name": "Suez Crisis",
+  "section": "Wars",
+  "subsection": "Arab–Israeli conflict (1948-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Suez_Crisis",
+  "kind": "group",
+  "countries": [
+   "Egypt",
+   "Israel"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Six-Day War",
+  "name": "Six-Day War",
+  "section": "Wars",
+  "subsection": "Arab–Israeli conflict (1948-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Six-Day_War",
+  "kind": "group",
+  "countries": [
+   "Israel",
+   "Palestine",
+   "Egypt",
+   "Syria",
+   "Jordan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::1968 Israeli invasion of Jordan",
+  "name": "1968 Israeli invasion of Jordan",
+  "section": "Wars",
+  "subsection": "Arab–Israeli conflict (1948-present)",
+  "kind": "country",
+  "countries": [
+   "Jordan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Yom Kippur War",
+  "name": "Yom Kippur War",
+  "section": "Wars",
+  "subsection": "Arab–Israeli conflict (1948-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Yom_Kippur_War",
+  "kind": "group",
+  "countries": [
+   "Israel",
+   "Egypt",
+   "Syria"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::2009 Gaza War",
+  "name": "2009 Gaza War",
+  "section": "Wars",
+  "subsection": "Israeli-Palestinian Conflict (c. 19th century-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)",
+  "kind": "pin",
+  "pin": [
+   34.4,
+   31.45
+  ],
+  "parent": "Palestine",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::2014 Gaza War",
+  "name": "2014 Gaza War",
+  "section": "Wars",
+  "subsection": "Israeli-Palestinian Conflict (c. 19th century-present)",
+  "wikiUrl": "https://en.wikipedia.org/wiki/2014_Gaza_War",
+  "kind": "pin",
+  "pin": [
+   34.4,
+   31.45
+  ],
+  "parent": "Palestine",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::Red River Resistance",
+  "name": "Red River Resistance",
+  "section": "Wars",
+  "subsection": "Rebellions/Resistances",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Red_River_Rebellion",
+  "kind": "pin",
+  "pin": [
+   -97.1,
+   49.9
+  ],
+  "parent": "Canada",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Wars::North-West Rebellion",
+  "name": "North-West Rebellion",
+  "section": "Wars",
+  "subsection": "Rebellions/Resistances",
+  "wikiUrl": "https://en.wikipedia.org/wiki/North-West_Rebellion",
+  "kind": "pin",
+  "pin": [
+   -106.5,
+   52.5
+  ],
+  "parent": "Canada",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Spread of Religon::Christianity",
+  "name": "Christianity",
+  "section": "Spread of Religon",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Spread_of_Christianity",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Coll. of Han and the Three Kingdoms P.",
+  "name": "Coll. of Han and the Three Kingdoms P.",
+  "section": "Other",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Coll. of the Qin Dy. & the Chu-Han c.",
+  "name": "Coll. of the Qin Dy. & the Chu-Han c.",
+  "section": "Other",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::More wars and etc.",
+  "name": "More wars and etc.",
+  "section": "Other",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Muslim Mapping",
+  "name": "Muslim Mapping",
+  "section": "Other",
+  "kind": "group",
+  "countries": [
+   "Turkey",
+   "Syria",
+   "Lebanon",
+   "Israel",
+   "Palestine",
+   "Jordan",
+   "Iraq",
+   "Iran",
+   "Saudi Arabia",
+   "Yemen",
+   "Oman",
+   "United Arab Emirates",
+   "Qatar",
+   "Bahrain",
+   "Kuwait",
+   "Egypt",
+   "Cyprus",
+   "N. Cyprus",
+   "Morocco",
+   "Algeria",
+   "Tunisia",
+   "Libya",
+   "Mauritania",
+   "W. Sahara",
+   "Afghanistan",
+   "Pakistan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Rise of the Safavids",
+  "name": "Rise of the Safavids",
+  "section": "Other",
+  "kind": "group",
+  "countries": [
+   "Iran",
+   "Azerbaijan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Western Schism",
+  "name": "Western Schism",
+  "section": "Other",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Western_Schism",
+  "kind": "group",
+  "countries": [
+   "France",
+   "Belgium",
+   "Netherlands",
+   "Luxembourg",
+   "Germany",
+   "Switzerland",
+   "Austria",
+   "United Kingdom",
+   "Ireland",
+   "Spain",
+   "Portugal",
+   "Italy",
+   "Monaco",
+   "Liechtenstein",
+   "Andorra"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::European Govt Types",
+  "name": "European Govt Types",
+  "section": "Other",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Spread of Writing",
+  "name": "Spread of Writing",
+  "section": "Other",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Breakup of Yugoslavia",
+  "name": "Breakup of Yugoslavia",
+  "section": "Other",
+  "kind": "group",
+  "countries": [
+   "Slovenia",
+   "Croatia",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro",
+   "Kosovo",
+   "Macedonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Unification of Italy",
+  "name": "Unification of Italy",
+  "section": "Other",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Unification_of_Italy",
+  "kind": "country",
+  "countries": [
+   "Italy"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Unification of Germany",
+  "name": "Unification of Germany",
+  "section": "Other",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Unification_of_Germany",
+  "kind": "country",
+  "countries": [
+   "Germany"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Reunification of Germany",
+  "name": "Reunification of Germany",
+  "section": "Other",
+  "wikiUrl": "https://en.wikipedia.org/wiki/German_reunification",
+  "kind": "country",
+  "countries": [
+   "Germany"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Fall of the WRE",
+  "name": "Fall of the WRE",
+  "section": "Other",
+  "wikiUrl": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+  "kind": "group",
+  "countries": [
+   "Italy",
+   "France",
+   "Spain",
+   "Portugal",
+   "United Kingdom",
+   "Tunisia",
+   "Algeria",
+   "Morocco",
+   "Belgium",
+   "Switzerland",
+   "Austria",
+   "Croatia",
+   "Slovenia",
+   "Luxembourg"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Other::Collapse of the German Empire",
+  "name": "Collapse of the German Empire",
+  "section": "Other",
+  "kind": "group",
+  "countries": [
+   "Germany",
+   "Poland"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Archaeological Cultures::Europe",
+  "name": "Europe",
+  "section": "Archaeological Cultures",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Archaeological Cultures::China",
+  "name": "China",
+  "section": "Archaeological Cultures",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Archaeological Cultures::Taiwan",
+  "name": "Taiwan",
+  "section": "Archaeological Cultures",
+  "kind": "country",
+  "countries": [
+   "Taiwan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Growth of cities::London",
+  "name": "London",
+  "section": "Growth of cities",
+  "wikiUrl": "https://en.wikipedia.org/wiki/London",
+  "kind": "pin",
+  "pin": [
+   -0.12,
+   51.5
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Growth of cities::NYC",
+  "name": "NYC",
+  "section": "Growth of cities",
+  "wikiUrl": "https://en.wikipedia.org/wiki/New_York_City",
+  "kind": "pin",
+  "pin": [
+   -74,
+   40.7
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Cossack Hosts and more",
+  "name": "Cossack Hosts and more",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Ukraine",
+   "Russia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1880 Africa and more",
+  "name": "1880 Africa and more",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Algeria",
+   "Angola",
+   "Benin",
+   "Botswana",
+   "Burkina Faso",
+   "Burundi",
+   "Cameroon",
+   "Cabo Verde",
+   "Central African Rep.",
+   "Chad",
+   "Comoros",
+   "Congo",
+   "Dem. Rep. Congo",
+   "Djibouti",
+   "Egypt",
+   "Eq. Guinea",
+   "Eritrea",
+   "eSwatini",
+   "Ethiopia",
+   "Gabon",
+   "Gambia",
+   "Ghana",
+   "Guinea",
+   "Guinea-Bissau",
+   "Côte d'Ivoire",
+   "Kenya",
+   "Lesotho",
+   "Liberia",
+   "Libya",
+   "Madagascar",
+   "Malawi",
+   "Mali",
+   "Mauritania",
+   "Mauritius",
+   "Morocco",
+   "Mozambique",
+   "Namibia",
+   "Niger",
+   "Nigeria",
+   "Rwanda",
+   "São Tomé and Principe",
+   "Senegal",
+   "Seychelles",
+   "Sierra Leone",
+   "Somalia",
+   "Somaliland",
+   "South Africa",
+   "S. Sudan",
+   "Sudan",
+   "Tanzania",
+   "Togo",
+   "Tunisia",
+   "Uganda",
+   "W. Sahara",
+   "Zambia",
+   "Zimbabwe",
+   "Saint Helena"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Pre Col. Namibia",
+  "name": "Pre Col. Namibia",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Namibia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Reservations",
+  "name": "Reservations",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Scythia and Scythian migrations",
+  "name": "Scythia and Scythian migrations",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Ukraine",
+   "Russia",
+   "Kazakhstan"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 2
+ },
+ {
+  "key": "Best still maps::European Archaeological Cultures",
+  "name": "European Archaeological Cultures",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::80+ World maps (Simplified)",
+  "name": "80+ World maps (Simplified)",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::OTL Maps",
+  "name": "OTL Maps",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::BAM maps and etc.",
+  "name": "BAM maps and etc.",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Indonesia 1596",
+  "name": "Indonesia 1596",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Indonesia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::14th cent. Novgorod",
+  "name": "14th cent. Novgorod",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   31.3,
+   58.5
+  ],
+  "parent": "Russia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::World Aug 1 1800",
+  "name": "World Aug 1 1800",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Middle Assyrian Empire",
+  "name": "Middle Assyrian Empire",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Iraq",
+   "Syria",
+   "Turkey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::China Dec 6 1930",
+  "name": "China Dec 6 1930",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::China Dec 25 1915",
+  "name": "China Dec 25 1915",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "China"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Lihyanite Kingdom",
+  "name": "Lihyanite Kingdom",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   37.9,
+   26.6
+  ],
+  "parent": "Saudi Arabia",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1727 Maghreb",
+  "name": "1727 Maghreb",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Morocco",
+   "Algeria",
+   "Tunisia",
+   "Libya",
+   "Mauritania",
+   "W. Sahara"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::c. 1286 Scotland",
+  "name": "c. 1286 Scotland",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   -4.2,
+   56.8
+  ],
+  "parent": "United Kingdom",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1673 Eurasia",
+  "name": "1673 Eurasia",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey",
+   "Afghanistan",
+   "Armenia",
+   "Azerbaijan",
+   "Bahrain",
+   "Bangladesh",
+   "Bhutan",
+   "Brunei",
+   "Cambodia",
+   "China",
+   "Georgia",
+   "Hong Kong",
+   "Macao",
+   "India",
+   "Indonesia",
+   "Iran",
+   "Iraq",
+   "Israel",
+   "Japan",
+   "Jordan",
+   "Kazakhstan",
+   "Kuwait",
+   "Kyrgyzstan",
+   "Laos",
+   "Lebanon",
+   "Malaysia",
+   "Maldives",
+   "Mongolia",
+   "Myanmar",
+   "Nepal",
+   "North Korea",
+   "Oman",
+   "Pakistan",
+   "Palestine",
+   "Philippines",
+   "Qatar",
+   "Saudi Arabia",
+   "Singapore",
+   "South Korea",
+   "Sri Lanka",
+   "Syria",
+   "Taiwan",
+   "Tajikistan",
+   "Thailand",
+   "Timor-Leste",
+   "Turkey",
+   "Turkmenistan",
+   "United Arab Emirates",
+   "Uzbekistan",
+   "Vietnam",
+   "Yemen",
+   "Siachen Glacier"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::867 Arabia",
+  "name": "867 Arabia",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Saudi Arabia",
+   "Yemen",
+   "Oman",
+   "United Arab Emirates",
+   "Qatar",
+   "Bahrain",
+   "Kuwait"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1789 Balochistan",
+  "name": "1789 Balochistan",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   65.5,
+   28
+  ],
+  "parent": "Pakistan",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Native American territory",
+  "name": "Native American territory",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "United States of America"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Ancient Europe",
+  "name": "Ancient Europe",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::WW1 Polish Microstates",
+  "name": "WW1 Polish Microstates",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Poland"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1699 Habsburgs",
+  "name": "1699 Habsburgs",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Austria",
+   "Hungary",
+   "Czechia",
+   "Slovakia",
+   "Slovenia",
+   "Croatia",
+   "Spain",
+   "Belgium",
+   "Netherlands"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Kingdom of Italy (900s AD)",
+  "name": "Kingdom of Italy (900s AD)",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Italy"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1422 Teutonic Order",
+  "name": "1422 Teutonic Order",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Poland",
+   "Lithuania",
+   "Latvia",
+   "Estonia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Duchy of Courland-Semigallia",
+  "name": "Duchy of Courland-Semigallia",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Latvia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Migrations and etc.",
+  "name": "Migrations and etc.",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1444 HRE",
+  "name": "1444 HRE",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Germany",
+   "Austria",
+   "Czechia",
+   "Switzerland",
+   "Netherlands",
+   "Belgium",
+   "Luxembourg",
+   "Liechtenstein",
+   "Slovenia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1836 Europe",
+  "name": "1836 Europe",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1444 Iberia",
+  "name": "1444 Iberia",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Spain",
+   "Portugal",
+   "Andorra"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::1444 Europe",
+  "name": "1444 Europe",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Europe Aug 31 1939",
+  "name": "Europe Aug 31 1939",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Albania",
+   "Andorra",
+   "Austria",
+   "Belarus",
+   "Belgium",
+   "Bosnia and Herz.",
+   "Bulgaria",
+   "Croatia",
+   "Cyprus",
+   "Czechia",
+   "Denmark",
+   "Estonia",
+   "Faeroe Is.",
+   "Finland",
+   "France",
+   "Germany",
+   "Greece",
+   "Hungary",
+   "Iceland",
+   "Ireland",
+   "Isle of Man",
+   "Italy",
+   "Kosovo",
+   "Latvia",
+   "Liechtenstein",
+   "Lithuania",
+   "Luxembourg",
+   "Malta",
+   "Moldova",
+   "Monaco",
+   "Montenegro",
+   "Netherlands",
+   "Macedonia",
+   "N. Cyprus",
+   "Norway",
+   "Poland",
+   "Portugal",
+   "Romania",
+   "Russia",
+   "San Marino",
+   "Serbia",
+   "Slovakia",
+   "Slovenia",
+   "Spain",
+   "Sweden",
+   "Switzerland",
+   "Ukraine",
+   "United Kingdom",
+   "Vatican",
+   "Åland",
+   "Guernsey",
+   "Jersey"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Territorial Evolution/Changes and etc.",
+  "name": "Territorial Evolution/Changes and etc.",
+  "section": "Best still maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::French invasion of Russia",
+  "name": "French invasion of Russia",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Russia",
+   "Belarus",
+   "Lithuania"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::French possesion in Asia",
+  "name": "French possesion in Asia",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Vietnam",
+   "Laos",
+   "Cambodia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::French possesion in Southern Africa",
+  "name": "French possesion in Southern Africa",
+  "section": "Best still maps",
+  "kind": "group",
+  "countries": [
+   "Madagascar",
+   "Comoros"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Kurdish Emirates",
+  "name": "Kurdish Emirates",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   43.5,
+   37
+  ],
+  "parent": "Iraq",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Southeastern USA",
+  "name": "Southeastern USA",
+  "section": "Best still maps",
+  "kind": "pin",
+  "pin": [
+   -84,
+   33
+  ],
+  "parent": "United States of America",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best still maps::Rome and Italy",
+  "name": "Rome and Italy",
+  "section": "Best still maps",
+  "kind": "country",
+  "countries": [
+   "Italy"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best interactive maps::Ongoing Wars",
+  "name": "Ongoing Wars",
+  "section": "Best interactive maps",
+  "kind": "world",
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ },
+ {
+  "key": "Best interactive maps::Land Ownership in Medieval Hungary",
+  "name": "Land Ownership in Medieval Hungary",
+  "section": "Best interactive maps",
+  "kind": "group",
+  "countries": [
+   "Hungary",
+   "Slovakia",
+   "Romania",
+   "Croatia",
+   "Serbia"
+  ],
+  "method": "curated",
+  "confidence": "guess",
+  "items": 1
+ }
+]

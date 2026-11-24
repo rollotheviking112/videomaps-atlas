@@ -1,0 +1,3 @@
+{
+  "_comment": "Human corrections. Same format as config/place-geo.json; keys are the column-A name, optionally \"Section::Name\". These win over everything else on re-import. Example: \"Greece (Corinth)\": { \"pin\": [22.93, 37.94], \"in\": \"Greece\" }"
+}

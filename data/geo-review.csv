@@ -1,0 +1,440 @@
+place,section,subsection,kind,countries,pin_lon,pin_lat,parent,method,confidence,items,wiki_url
+The World,World,,world,,,,,curated,exact,2,
+North America,Continents,,group,Canada; United States of America; Mexico; Greenland; St. Pierre and Miquelon; Bermuda; Guatemala; Belize; Honduras; El Salvador; Nicaragua; Costa Rica; Panama; Cuba; Jamaica; Haiti; Dominican Rep.; Puerto Rico; Bahamas; Trinidad and Tobago; Barbados; Grenada; Saint Lucia; St. Vin. and Gren.; Dominica; Antigua and Barb.; St. Kitts and Nevis; Cayman Is.; Turks and Caicos Is.; British Virgin Is.; U.S. Virgin Is.; Anguilla; Montserrat; Aruba; Curaçao; Sint Maarten; St-Martin; St-Barthélemy,,,,region-config,exact,1,https://en.wikipedia.org/wiki/North_America
+South America,Continents,,group,Brazil; Argentina; Chile; Peru; Colombia; Venezuela; Ecuador; Bolivia; Paraguay; Uruguay; Guyana; Suriname; Falkland Is.,,,,region-config,exact,2,https://en.wikipedia.org/wiki/South_America
+Europe,Continents,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Europe
+Africa,Continents,,group,Algeria; Angola; Benin; Botswana; Burkina Faso; Burundi; Cameroon; Cabo Verde; Central African Rep.; Chad; Comoros; Congo; Dem. Rep. Congo; Djibouti; Egypt; Eq. Guinea; Eritrea; eSwatini; Ethiopia; Gabon; Gambia; Ghana; Guinea; Guinea-Bissau; Côte d'Ivoire; Kenya; Lesotho; Liberia; Libya; Madagascar; Malawi; Mali; Mauritania; Mauritius; Morocco; Mozambique; Namibia; Niger; Nigeria; Rwanda; São Tomé and Principe; Senegal; Seychelles; Sierra Leone; Somalia; Somaliland; South Africa; S. Sudan; Sudan; Tanzania; Togo; Tunisia; Uganda; W. Sahara; Zambia; Zimbabwe; Saint Helena,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Africa
+Asia,Continents,,group,Afghanistan; Armenia; Azerbaijan; Bahrain; Bangladesh; Bhutan; Brunei; Cambodia; China; Georgia; Hong Kong; Macao; India; Indonesia; Iran; Iraq; Israel; Japan; Jordan; Kazakhstan; Kuwait; Kyrgyzstan; Laos; Lebanon; Malaysia; Maldives; Mongolia; Myanmar; Nepal; North Korea; Oman; Pakistan; Palestine; Philippines; Qatar; Saudi Arabia; Singapore; South Korea; Sri Lanka; Syria; Taiwan; Tajikistan; Thailand; Timor-Leste; Turkey; Turkmenistan; United Arab Emirates; Uzbekistan; Vietnam; Yemen; Siachen Glacier,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Asia
+Oceania,Continents,,group,Australia; New Zealand; Papua New Guinea; Fiji; Solomon Is.; Vanuatu; New Caledonia; Samoa; American Samoa; Tonga; Kiribati; Micronesia; Marshall Is.; Palau; Nauru; Guam; N. Mariana Is.; Fr. Polynesia; Cook Is.; Niue; Wallis and Futuna Is.; Norfolk Island; Pitcairn Is.,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Oceania
+Antarctica,Continents,,group,Antarctica; Fr. S. Antarctic Lands; Heard I. and McDonald Is.; S. Geo. and the Is.,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Antarctica
+Amazon,Regions,,group,Brazil; Peru; Colombia; Bolivia; Ecuador; Venezuela; Guyana; Suriname,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Amazon_rainforest
+Arabia,Regions,,group,Saudi Arabia; Yemen; Oman; United Arab Emirates; Qatar; Bahrain; Kuwait,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Arabian_Peninsula
+Arctic,Regions,,group,Greenland; Iceland; Norway; Sweden; Finland; Russia; Canada,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Arctic
+Balkans,Regions,,group,Slovenia; Croatia; Bosnia and Herz.; Serbia; Montenegro; Kosovo; Albania; Macedonia; Bulgaria; Greece; Romania,,,,region-config,exact,5,https://en.wikipedia.org/wiki/Balkans
+Baltic,Regions,,group,Estonia; Latvia; Lithuania,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Baltic_states
+Brazilian Shield,Regions,,pin,,-50,-12,Brazil,curated,exact,1,https://en.wikipedia.org/wiki/Amazonian_Craton
+British Isles,Regions,,group,United Kingdom; Ireland; Isle of Man; Guernsey; Jersey,,,,region-config,exact,1,https://en.wikipedia.org/wiki/British_Isles
+Caribbean,Regions,,group,Cuba; Jamaica; Haiti; Dominican Rep.; Puerto Rico; Bahamas; Trinidad and Tobago; Barbados; Grenada; Saint Lucia; St. Vin. and Gren.; Dominica; Antigua and Barb.; St. Kitts and Nevis; Cayman Is.; Turks and Caicos Is.; British Virgin Is.; U.S. Virgin Is.; Anguilla; Montserrat; Aruba; Curaçao; Sint Maarten; St-Martin; St-Barthélemy,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Caribbean
+Caucasus,Regions,,group,Georgia; Armenia; Azerbaijan,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Caucasus
+Central Asia,Regions,,group,Kazakhstan; Uzbekistan; Turkmenistan; Kyrgyzstan; Tajikistan,,,,region-config,exact,3,https://en.wikipedia.org/wiki/Central_Asia
+Dagestan,Regions,,pin,,47,42.8,Russia,curated,exact,1,https://en.wikipedia.org/wiki/Dagestan
+Eastern Mediterranean,Regions,,group,Greece; Turkey; Cyprus; N. Cyprus; Syria; Lebanon; Israel; Palestine; Egypt,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Eastern_Mediterranean
+Fertile Crescent,Regions,,group,Iraq; Syria; Lebanon; Israel; Palestine; Jordan; Kuwait,,,,region-config,exact,3,https://en.wikipedia.org/wiki/Fertile_Crescent
+Hispaniola,Regions,,group,Haiti; Dominican Rep.,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Hispaniola
+Iberia,Regions,,group,Spain; Portugal; Andorra,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Iberian_Peninsula
+Low Countries,Regions,,group,Netherlands; Belgium; Luxembourg,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Low_Countries
+Macaronesia,Regions,,pin,,-17,30,,curated,exact,1,https://en.wikipedia.org/wiki/Macaronesia
+Maghreb,Regions,,group,Morocco; Algeria; Tunisia; Libya; Mauritania; W. Sahara,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Maghreb
+Malay Archipelago,Regions,,group,Indonesia; Malaysia; Philippines; Brunei; Timor-Leste; Singapore,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Malay_Archipelago
+Mesoamerica,Regions,,group,Mexico; Guatemala; Belize; El Salvador; Honduras; Nicaragua; Costa Rica,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Mesoamerica
+Middle East,Regions,,group,Turkey; Syria; Lebanon; Israel; Palestine; Jordan; Iraq; Iran; Saudi Arabia; Yemen; Oman; United Arab Emirates; Qatar; Bahrain; Kuwait; Egypt; Cyprus; N. Cyprus,,,,region-config,exact,2,https://en.wikipedia.org/wiki/Middle_East
+Patagonia,Regions,,group,Argentina; Chile,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Patagonia
+Pomerania,Regions,,pin,,15.5,54,Poland,curated,exact,1,https://en.wikipedia.org/wiki/Pomerania
+Scandinavia,Regions,,group,Norway; Sweden; Denmark,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Scandinavia
+Silesia,Regions,,pin,,17,50.8,Poland,curated,exact,1,https://en.wikipedia.org/wiki/Silesia
+Southeast Asia,Regions,,group,Myanmar; Thailand; Laos; Cambodia; Vietnam; Indonesia; Malaysia; Philippines; Brunei; Timor-Leste; Singapore,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Southeast_Asia
+Southern Africa,Regions,,group,South Africa; Namibia; Botswana; Zimbabwe; Mozambique; Lesotho; eSwatini; Zambia; Malawi; Angola,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Southern_Africa
+Southern Cone,Regions,,group,Argentina; Chile; Uruguay; Paraguay,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Southern_Cone
+West Africa,Regions,,group,Senegal; Gambia; Guinea-Bissau; Guinea; Sierra Leone; Liberia; Côte d'Ivoire; Ghana; Togo; Benin; Nigeria; Niger; Burkina Faso; Mali; Mauritania; Cabo Verde,,,,region-config,exact,1,https://en.wikipedia.org/wiki/West_Africa
+Western Europe,Regions,,group,France; Belgium; Netherlands; Luxembourg; Germany; Switzerland; Austria; United Kingdom; Ireland; Spain; Portugal; Italy; Monaco; Liechtenstein; Andorra,,,,region-config,exact,1,https://en.wikipedia.org/wiki/Western_Europe
+Afghanistan,Countries,,country,Afghanistan,,,,country-name,exact,5,https://en.wikipedia.org/wiki/Afghanistan
+Albania,Countries,,country,Albania,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Albania
+Argentina (Total),Countries,,country,Argentina,,,,country-total,exact,2,https://en.wikipedia.org/wiki/Argentina
+Armenia,Countries,,country,Armenia,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Armenia
+Australia,Countries,,country,Australia,,,,country-name,exact,4,https://en.wikipedia.org/wiki/Australia
+Australia (Tiwi Islands),Countries,,pin,,130.8,-11.6,Australia,curated,exact,1,https://en.wikipedia.org/wiki/Tiwi_Islands
+Austria,Countries,,country,Austria,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Austria
+Azerbaijan,Countries,,country,Azerbaijan,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Azerbaijan
+Bahamas,Countries,,country,Bahamas,,,,country-name,exact,1,https://en.wikipedia.org/wiki/The_Bahamas
+Belarus,Countries,,country,Belarus,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Belarus
+Belgium,Countries,,country,Belgium,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Belgium
+Bhutan,Countries,,country,Bhutan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Bhutan
+Bolivia,Countries,,country,Bolivia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Bolivia
+Bosnia and Herzegovina,Countries,,country,Bosnia and Herz.,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina
+Brazil,Countries,,country,Brazil,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Brazil
+Brazil (Marajó),Countries,,pin,,-49.5,-1,Brazil,curated,exact,1,https://en.wikipedia.org/wiki/Maraj%C3%B3
+Brazil (Midwest),Countries,,pin,,-54,-15,Brazil,curated,exact,1,
+Brazil (Northeast),Countries,,pin,,-39.5,-8,Brazil,curated,exact,1,
+Bulgaria,Countries,,country,Bulgaria,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Bulgaria
+Cambodia,Countries,,country,Cambodia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Cambodia
+Canada,Countries,,country,Canada,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Canada
+Canada (w. First Nation claims),Countries,,country,Canada,,,,curated,exact,1,
+Canada (Québec),Countries,,pin,,-72,52,Canada,curated,exact,1,https://en.wikipedia.org/wiki/Quebec
+Central African Republic,Countries,,country,Central African Rep.,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Central_African_Republic
+Chile (Araucania),Countries,,pin,,-72.5,-38.6,Chile,curated,exact,1,https://en.wikipedia.org/wiki/Araucan%C3%ADa_Region
+China (Total),Countries,,country,China,,,,country-total,exact,3,https://en.wikipedia.org/wiki/China
+China (Manchuria),Countries,,pin,,126.5,45.5,China,curated,exact,2,https://en.wikipedia.org/wiki/Manchuria
+China (Tibet),Countries,,pin,,88.5,31.5,China,curated,exact,3,https://en.wikipedia.org/wiki/Tibet
+Colombia,Countries,,country,Colombia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Colombia
+Comoros,Countries,,country,Comoros,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Comoros
+Congo,Countries,,country,Congo,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Republic_of_the_Congo
+Cook Islands,Countries,,country,Cook Is.,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Cook_Islands
+Costa Rica,Countries,,country,Costa Rica,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Costa_Rica
+Croatia,Countries,,country,Croatia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Croatia
+Cuba,Countries,,country,Cuba,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Cuba
+Cyprus,Countries,,country,Cyprus,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Cyprus
+Czech Republic,Countries,,country,Czechia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Czech_Republic
+Denmark,Countries,,country,Denmark,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Denmark
+Denmark (Faroe Islands),Countries,,country,Faeroe Is.,,,,curated,exact,1,https://en.wikipedia.org/wiki/Faroe_Islands
+Denmark (Greenland),Countries,,country,Greenland,,,,curated,exact,1,https://en.wikipedia.org/wiki/Greenland
+Denmark (Greenland w. Hans Island),Countries,,country,Greenland,,,,curated,exact,1,
+Djibouti,Countries,,country,Djibouti,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Djibouti
+DR Congo,Countries,,country,Dem. Rep. Congo,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo
+Ethiopia,Countries,,country,Ethiopia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Ethiopia
+Finland,Countries,,country,Finland,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Finland
+France (Total),Countries,,country,France,,,,country-total,exact,2,https://en.wikipedia.org/wiki/France
+France (Corsica),Countries,,pin,,9.1,42.1,France,curated,exact,1,https://en.wikipedia.org/wiki/Corsica
+Germany,Countries,,country,Germany,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Germany
+Germany (Bavaria),Countries,,pin,,11.5,48.8,Germany,curated,exact,1,https://en.wikipedia.org/wiki/Bavaria
+Germany (Brandenburg),Countries,,pin,,13.2,52.4,Germany,curated,exact,1,https://en.wikipedia.org/wiki/Brandenburg
+Germany (East),Countries,,pin,,12.6,51.8,Germany,curated,exact,2,https://en.wikipedia.org/wiki/East_Germany
+Germany (Fürstenberg),Countries,,pin,,8.5,47.95,Germany,curated,exact,1,https://en.wikipedia.org/wiki/Principality_of_F%C3%BCrstenberg
+Germany (Wied),Countries,,pin,,7.45,50.45,Germany,curated,exact,1,https://en.wikipedia.org/wiki/County_of_Wied
+Ghana,Countries,,country,Ghana,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Ghana
+Greece (Total),Countries,,country,Greece,,,,country-total,exact,1,https://en.wikipedia.org/wiki/Greece
+Greece (Carian Coast),Countries,,pin,,27.6,37.2,Turkey,curated,exact,1,
+Greece (Central),Countries,,pin,,22.5,38.7,Greece,curated,exact,1,
+Greece (Corfu),Countries,,pin,,19.9,39.6,Greece,curated,exact,1,https://en.wikipedia.org/wiki/Corfu
+Greece (Corinth),Countries,,pin,,22.93,37.94,Greece,curated,exact,1,
+Greece (Greek Isles),Countries,,pin,,25.3,37.1,Greece,curated,exact,1,
+Greece (Megaris),Countries,,pin,,23.35,38,Greece,curated,exact,1,https://en.wikipedia.org/wiki/Megaris
+Greece (Peloponnese),Countries,,pin,,22.2,37.4,Greece,curated,exact,1,https://en.wikipedia.org/wiki/Peloponnese
+Greece (Thessaly),Countries,,pin,,22.2,39.5,Greece,curated,exact,1,https://en.wikipedia.org/wiki/Thessaly
+Hungary,Countries,,country,Hungary,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Hungary
+Iceland,Countries,,country,Iceland,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Iceland
+Iceland (w. accurate glaciers),Countries,,country,Iceland,,,,curated,exact,1,
+India (Total),Countries,,country,India,,,,country-total,exact,2,https://en.wikipedia.org/wiki/India
+India (Deccan),Countries,,pin,,77.5,17,India,curated,exact,1,https://en.wikipedia.org/wiki/Deccan_Plateau
+India (North),Countries,,pin,,79,27.5,India,curated,exact,3,
+Intia (North-West),Countries,,pin,,74,29.5,India,curated,exact,3,
+India (South),Countries,,pin,,78,11,India,curated,exact,1,
+Indonesia (Bali),Countries,,pin,,115.2,-8.4,Indonesia,curated,exact,1,https://en.wikipedia.org/wiki/Bali
+Indonesia (Borneo),Countries,,pin,,114,0.5,Indonesia,curated,exact,1,https://en.wikipedia.org/wiki/Borneo
+Indonesia (Java),Countries,,pin,,110,-7.4,Indonesia,curated,exact,1,https://en.wikipedia.org/wiki/Java
+Indonesia (Siau-Tagulandang-Biaro),Countries,,pin,,125.4,2.6,Indonesia,curated,exact,1,
+Indonesia (Sulawesi),Countries,,pin,,120.5,-2,Indonesia,curated,exact,1,https://en.wikipedia.org/wiki/Sulawesi
+Indonesia (Sumatra),Countries,,pin,,101.5,-0.5,Indonesia,curated,exact,1,https://en.wikipedia.org/wiki/Sumatra
+Iran,Countries,,country,Iran,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Iran
+Ireland,Countries,,country,Ireland,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Republic_of_Ireland
+Israel,Countries,,country,Israel,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Israel
+Italy (Total),Countries,,country,Italy,,,,country-total,exact,1,https://en.wikipedia.org/wiki/Italy
+Italy (Del Carretto & Marquisate of Finale),Countries,,pin,,8.33,44.17,Italy,curated,exact,1,https://en.wikipedia.org/wiki/Marquisate_of_Finale
+Italy (Magna Graecia),Countries,,pin,,16.5,39.5,Italy,curated,exact,1,https://en.wikipedia.org/wiki/Magna_Graecia
+Italy (Malaspina of Lunigiana),Countries,,pin,,9.95,44.25,Italy,curated,exact,1,
+"Italy (Noli, Savona & Varazze)",Countries,,pin,,8.45,44.3,Italy,curated,exact,1,
+Italy (Sicily),Countries,,pin,,14.1,37.5,Italy,curated,exact,1,https://en.wikipedia.org/wiki/Sicily
+Italy (Valsassina & Lecco),Countries,,pin,,9.45,45.95,Italy,curated,exact,1,
+Italy (Venetian Mainland),Countries,,pin,,11.8,45.55,Italy,curated,exact,1,
+Jamaica,Countries,,country,Jamaica,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Jamaica
+Japan,Countries,,country,Japan,,,,country-name,exact,8,https://en.wikipedia.org/wiki/Japan
+Jordan,Countries,,country,Jordan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Jordan
+Kazakhstan,Countries,,country,Kazakhstan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Kazakhstan
+Kuwait,Countries,,country,Kuwait,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Kuwait
+Kyrgyzstan,Countries,,country,Kyrgyzstan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Kyrgyzstan
+Laos,Countries,,country,Laos,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Laos
+Latvia,Countries,,country,Latvia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Latvia
+Liberia,Countries,,country,Liberia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Liberia
+Liechtenstein,Countries,,country,Liechtenstein,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Liechtenstein
+Lithuania,Countries,,country,Lithuania,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Lithuania
+Luxembourg,Countries,,country,Luxembourg,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Luxembourg
+Malaysia,Countries,,country,Malaysia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Malaysia
+Mali,Countries,,country,Mali,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Mali
+Malta,Countries,,country,Malta,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Malta
+Mexico,Countries,,country,Mexico,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Mexico
+Micronesia (FSM) (Pohnpei),Countries,,pin,,158.2,6.9,Micronesia,curated,exact,1,https://en.wikipedia.org/wiki/Pohnpei
+Monaco,Countries,,country,Monaco,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Monaco
+Mongolia,Countries,,country,Mongolia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Mongolia
+Montenegro,Countries,,country,Montenegro,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Montenegro
+Myanmar,Countries,,country,Myanmar,,,,country-name,exact,5,https://en.wikipedia.org/wiki/Myanmar
+Namibia,Countries,,country,Namibia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Namibia
+Nauru,Countries,,country,Nauru,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Nauru
+Nepal,Countries,,country,Nepal,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Nepal
+New Zealand,Countries,,country,New Zealand,,,,country-name,exact,2,https://en.wikipedia.org/wiki/New_Zealand
+New Zealand (Chatham Islands),Countries,,pin,,-176.5,-44,New Zealand,curated,exact,1,https://en.wikipedia.org/wiki/Chatham_Islands
+Niue,Countries,,country,Niue,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Niue
+North Korea,Countries,,country,North Korea,,,,country-name,exact,4,https://en.wikipedia.org/wiki/North_Korea
+Northern Cyprus,Countries,,country,N. Cyprus,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Northern_Cyprus
+Pakistan,Countries,,country,Pakistan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Pakistan
+Palestine,Countries,,country,Palestine,,,,country-name,exact,1,https://en.wikipedia.org/wiki/State_of_Palestine
+Panama,Countries,,country,Panama,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Panama
+Papua New Guinea,Countries,,country,Papua New Guinea,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Papua_New_Guinea
+Paraguay,Countries,,country,Paraguay,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Paraguay
+Peru,Countries,,country,Peru,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Peru
+Philippines,Countries,,country,Philippines,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Philippines
+Poland,Countries,,country,Poland,,,,country-name,exact,4,https://en.wikipedia.org/wiki/Poland
+Romania,Countries,,country,Romania,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Romania
+Russia (Total),Countries,,country,Russia,,,,country-total,exact,2,https://en.wikipedia.org/wiki/Russia
+Russia (Arctic),Countries,,pin,,90,72,Russia,curated,exact,1,
+Russia (Kaliningrad),Countries,,pin,,21,54.7,Russia,curated,exact,1,https://en.wikipedia.org/wiki/Kaliningrad_Oblast
+Russia (Tuva),Countries,,pin,,94.5,51.5,Russia,curated,exact,2,https://en.wikipedia.org/wiki/Tuva
+Samoa,Countries,,country,Samoa,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Samoa
+San Marino,Countries,,country,San Marino,,,,country-name,exact,1,https://en.wikipedia.org/wiki/San_Marino
+Saudi Arabia,Countries,,country,Saudi Arabia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Saudi_Arabia
+Senegal,Countries,,country,Senegal,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Senegal
+Serbia,Countries,,country,Serbia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Serbia
+Slovakia,Countries,,country,Slovakia,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Slovakia
+Slovenia,Countries,,country,Slovenia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Slovenia
+Somalia,Countries,,country,Somalia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Somalia
+South Africa,Countries,,country,South Africa,,,,country-name,exact,1,https://en.wikipedia.org/wiki/South_Africa
+South Korea,Countries,,country,South Korea,,,,country-name,exact,3,https://en.wikipedia.org/wiki/South_Korea
+South Sudan,Countries,,country,S. Sudan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/South_Sudan
+Sri Lanka,Countries,,country,Sri Lanka,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Sri_Lanka
+Sudan (Total),Countries,,country,Sudan,,,,country-total,exact,4,https://en.wikipedia.org/wiki/Sudan
+Sudan (Darfur),Countries,,pin,,24.5,13,Sudan,curated,exact,1,https://en.wikipedia.org/wiki/Darfur
+Switzerland,Countries,,country,Switzerland,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Switzerland
+Syria,Countries,,country,Syria,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Syria
+Taiwan,Countries,,country,Taiwan,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Taiwan
+Thailand,Countries,,country,Thailand,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Thailand
+Tunisia,Countries,,country,Tunisia,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Tunisia
+Turkey (Total),Countries,,country,Turkey,,,,country-total,exact,2,https://en.wikipedia.org/wiki/Turkey
+Turkey (Bithynia),Countries,,pin,,30.5,40.5,Turkey,curated,exact,1,https://en.wikipedia.org/wiki/Bithynia
+Turkey (Western Anatolia),Countries,,pin,,28.5,38.5,Turkey,curated,exact,1,
+Uganda,Countries,,country,Uganda,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Uganda
+Ukraine,Countries,,country,Ukraine,,,,country-name,exact,4,https://en.wikipedia.org/wiki/Ukraine
+United Kingdom (Falkland Islands),Countries,,country,Falkland Is.,,,,curated,exact,2,https://en.wikipedia.org/wiki/Falkland_Islands
+United Kingdom (Scotland),Countries,,pin,,-4.2,56.8,United Kingdom,curated,exact,1,https://en.wikipedia.org/wiki/Scotland
+United Kingdom (Wales),Countries,,pin,,-3.7,52.3,United Kingdom,curated,exact,1,https://en.wikipedia.org/wiki/Wales
+United States (Total),Countries,,country,United States of America,,,,country-total,exact,2,https://en.wikipedia.org/wiki/United_States
+United States (Global View),Countries,,country,United States of America,,,,curated,exact,1,
+United States (Total w. Indians),Countries,,country,United States of America,,,,curated,exact,1,
+United States (Alaska),Countries,,pin,,-152,64,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Alaska
+United States (Great Plains),Countries,,pin,,-101,41,United States of America,curated,exact,2,https://en.wikipedia.org/wiki/Great_Plains
+United States (Hawaii),Countries,,pin,,-157,20.8,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Hawaii
+United States (Mid-Atlantic),Countries,,pin,,-76,40,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)
+United States (Midwest),Countries,,pin,,-90,42,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Midwestern_United_States
+United States (Navajo),Countries,,pin,,-109.5,36.2,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Navajo_Nation
+United States (North Florida),Countries,,pin,,-83,30.2,United States of America,curated,exact,2,https://en.wikipedia.org/wiki/North_Florida
+United States (Northeast),Countries,,pin,,-73,42.8,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Northeastern_United_States
+United States (Pacific Northwest),Countries,,pin,,-121,46,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Pacific_Northwest
+United States (Puerto Rico),Countries,,country,Puerto Rico,,,,curated,exact,1,https://en.wikipedia.org/wiki/Puerto_Rico
+United States (South Florida),Countries,,pin,,-80.8,26.2,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/South_Florida
+United States (Southeast),Countries,,pin,,-83.5,33.5,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Southeastern_United_States
+United States (Upper South),Countries,,pin,,-86,36.6,United States of America,curated,exact,1,
+Uruguay,Countries,,country,Uruguay,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Uruguay
+Uzbekistan,Countries,,country,Uzbekistan,,,,country-name,exact,2,https://en.wikipedia.org/wiki/Uzbekistan
+Vatican City,Countries,,country,Vatican,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Vatican_City
+Vietnam,Countries,,country,Vietnam,,,,country-name,exact,3,https://en.wikipedia.org/wiki/Vietnam
+Yemen,Countries,,country,Yemen,,,,country-name,exact,1,https://en.wikipedia.org/wiki/Yemen
+Molossia,Micronations,,pin,,-119.6,39.3,United States of America,curated,exact,1,https://en.wikipedia.org/wiki/Republic_of_Molossia
+Sealand,Micronations,,pin,,1.48,51.9,United Kingdom,curated,exact,1,https://en.wikipedia.org/wiki/Principality_of_Sealand
+House of Habsburg,Royal Houses,,group,Austria; Hungary; Czechia; Slovakia; Slovenia; Croatia; Spain; Belgium; Netherlands,,,,curated,guess,1,https://en.wikipedia.org/wiki/House_of_Habsburg
+House of Liechtenstein,Royal Houses,,group,Liechtenstein; Austria,,,,curated,guess,1,https://en.wikipedia.org/wiki/House_of_Liechtenstein
+European Monarchs,Royal Houses,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,2,
+Hakkari,Sub-Regions,,pin,,43.7,37.5,Turkey,curated,exact,1,https://en.wikipedia.org/wiki/Hakkari_(historical_region)
+Iraq and Khuzestan,Sub-Regions,,group,Iraq; Iran,,,,curated,exact,1,
+Pembrokeshire,Sub-Regions,,pin,,-4.9,51.85,United Kingdom,curated,exact,1,https://en.wikipedia.org/wiki/Pembrokeshire
+European Union,Alliances/Unions,,group,Austria; Belgium; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Finland; France; Germany; Greece; Hungary; Ireland; Italy; Latvia; Lithuania; Luxembourg; Malta; Netherlands; Poland; Portugal; Romania; Slovakia; Slovenia; Spain; Sweden,,,,curated,guess,1,https://en.wikipedia.org/wiki/European_Union
+NATO,Alliances/Unions,,group,Albania; Belgium; Bulgaria; Canada; Croatia; Czechia; Denmark; Estonia; Finland; France; Germany; Greece; Hungary; Iceland; Italy; Latvia; Lithuania; Luxembourg; Montenegro; Netherlands; Macedonia; Norway; Poland; Portugal; Romania; Slovakia; Slovenia; Spain; Sweden; Turkey; United Kingdom; United States of America,,,,curated,guess,1,https://en.wikipedia.org/wiki/NATO
+OTS,Alliances/Unions,,group,Turkey; Azerbaijan; Kazakhstan; Kyrgyzstan; Uzbekistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Organization_of_Turkic_States
+CIS,Alliances/Unions,,group,Russia; Belarus; Armenia; Azerbaijan; Kazakhstan; Kyrgyzstan; Moldova; Tajikistan; Uzbekistan; Turkmenistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Commonwealth_of_Independent_States
+United Nations,Alliances/Unions,,world,,,,,curated,guess,1,https://en.wikipedia.org/wiki/United_Nations
+League of Nations,Alliances/Unions,,world,,,,,curated,guess,1,https://en.wikipedia.org/wiki/League_of_Nations
+African Union,Alliances/Unions,,group,Algeria; Angola; Benin; Botswana; Burkina Faso; Burundi; Cameroon; Cabo Verde; Central African Rep.; Chad; Comoros; Congo; Dem. Rep. Congo; Djibouti; Egypt; Eq. Guinea; Eritrea; eSwatini; Ethiopia; Gabon; Gambia; Ghana; Guinea; Guinea-Bissau; Côte d'Ivoire; Kenya; Lesotho; Liberia; Libya; Madagascar; Malawi; Mali; Mauritania; Mauritius; Morocco; Mozambique; Namibia; Niger; Nigeria; Rwanda; São Tomé and Principe; Senegal; Seychelles; Sierra Leone; Somalia; Somaliland; South Africa; S. Sudan; Sudan; Tanzania; Togo; Tunisia; Uganda; W. Sahara; Zambia; Zimbabwe; Saint Helena,,,,curated,guess,1,https://en.wikipedia.org/wiki/African_Union
+Arab League,Alliances/Unions,,group,Algeria; Bahrain; Comoros; Djibouti; Egypt; Iraq; Jordan; Kuwait; Lebanon; Libya; Mauritania; Morocco; Oman; Palestine; Qatar; Saudi Arabia; Somalia; Sudan; Syria; Tunisia; United Arab Emirates; Yemen,,,,curated,guess,1,https://en.wikipedia.org/wiki/Arab_League
+OPEC,Alliances/Unions,,group,Algeria; Congo; Eq. Guinea; Gabon; Iran; Iraq; Kuwait; Libya; Nigeria; Saudi Arabia; United Arab Emirates; Venezuela,,,,curated,guess,1,https://en.wikipedia.org/wiki/OPEC
+ASEAN,Alliances/Unions,,group,Brunei; Cambodia; Indonesia; Laos; Malaysia; Myanmar; Philippines; Singapore; Thailand; Vietnam; Timor-Leste,,,,curated,guess,1,https://en.wikipedia.org/wiki/ASEAN
+Union of South American Nations,Alliances/Unions,,group,Argentina; Bolivia; Brazil; Chile; Colombia; Ecuador; Guyana; Paraguay; Peru; Suriname; Uruguay; Venezuela,,,,curated,guess,1,https://en.wikipedia.org/wiki/Union_of_South_American_Nations
+Slavery in the US,Civil Rights,,country,United States of America,,,,curated,guess,1,https://en.wikipedia.org/wiki/Slavery_in_the_United_States
+The Americas,Civil Rights,,group,Canada; United States of America; Mexico; Greenland; St. Pierre and Miquelon; Bermuda; Guatemala; Belize; Honduras; El Salvador; Nicaragua; Costa Rica; Panama; Cuba; Jamaica; Haiti; Dominican Rep.; Puerto Rico; Bahamas; Trinidad and Tobago; Barbados; Grenada; Saint Lucia; St. Vin. and Gren.; Dominica; Antigua and Barb.; St. Kitts and Nevis; Cayman Is.; Turks and Caicos Is.; British Virgin Is.; U.S. Virgin Is.; Anguilla; Montserrat; Aruba; Curaçao; Sint Maarten; St-Martin; St-Barthélemy; Brazil; Argentina; Chile; Peru; Colombia; Venezuela; Ecuador; Bolivia; Paraguay; Uruguay; Guyana; Suriname; Falkland Is.,,,,curated,guess,1,
+White Sea Canal,Canals,,pin,,34.8,63.5,Russia,curated,guess,1,https://en.wikipedia.org/wiki/White_Sea%E2%80%93Baltic_Canal
+Panama Canal,Canals,,pin,,-79.7,9.1,Panama,curated,guess,1,https://en.wikipedia.org/wiki/Panama_Canal
+Suez Canal,Canals,,pin,,32.35,30.6,Egypt,curated,guess,1,https://en.wikipedia.org/wiki/Suez_Canal
+Mongol Empire,Historical,,group,Mongolia; China; Russia; Kazakhstan; Iran; Iraq; Afghanistan; Uzbekistan; Turkmenistan; Kyrgyzstan; Tajikistan; Ukraine; Georgia; Armenia; Azerbaijan; North Korea; South Korea,,,,curated,guess,2,
+Middle Assyrian Empire,Historical,,group,Iraq; Syria; Turkey,,,,curated,guess,1,
+Republic of Ragusa,Historical,,pin,,18.1,42.65,Croatia,curated,guess,1,
+Raja Ampat Kingdoms,Historical,,pin,,130.5,-0.5,Indonesia,curated,guess,1,
+Roman World,Historical,,group,Italy; France; Spain; Portugal; Greece; Turkey; Egypt; Tunisia; Libya; Algeria; Morocco; Syria; Lebanon; Israel; Palestine; Jordan; United Kingdom; Belgium; Switzerland; Austria; Croatia; Slovenia; Serbia; Bulgaria; Romania; Albania; Bosnia and Herz.; Montenegro; Macedonia; Hungary; Cyprus; N. Cyprus; Malta; Luxembourg; Kosovo,,,,curated,guess,1,
+Byzantine Interregnum,Historical,,group,Greece; Turkey,,,,curated,guess,1,
+Scottish Colony of Nova Scotia,Historical,,pin,,-63,45,Canada,curated,guess,1,https://en.wikipedia.org/wiki/Scottish_colonization_of_the_Americas#Nova_Scotia_(1621)
+Gaza Empire,Historical,,group,Mozambique; Zimbabwe,,,,curated,guess,1,https://en.wikipedia.org/wiki/Gaza_Empire
+The Zulu,Historical,,pin,,31,-28.3,South Africa,curated,guess,1,
+Nabataean Kingdom,Historical,,group,Jordan; Saudi Arabia; Israel,,,,curated,guess,1,https://en.wikipedia.org/wiki/Nabataean_Kingdom
+Fouta Djallon,Historical,,pin,,-12,11.3,Guinea,curated,guess,1,
+Samorian State,Historical,,group,Guinea; Mali; Côte d'Ivoire,,,,curated,guess,1,https://en.wikipedia.org/wiki/Samorian_state
+Caliphate of Hamdallaye,Historical,,pin,,-4,14.5,Mali,curated,guess,1,
+Umarian Empire,Historical,,group,Mali; Senegal; Guinea,,,,curated,guess,1,
+Maya (Classical),Historical,,group,Mexico; Guatemala; Belize; Honduras,,,,curated,guess,1,https://en.wikipedia.org/wiki/Maya_civilization
+Mixtec,Historical,,pin,,-97.5,17.3,Mexico,curated,guess,1,https://en.wikipedia.org/wiki/Mixtec_culture
+Rise of the Ancient Celts,Historical,,group,France; Germany; Austria; Switzerland; Czechia; United Kingdom; Ireland; Spain,,,,curated,guess,1,https://en.wikipedia.org/wiki/Celts
+Loss of Native American Lands,Historical,,country,United States of America,,,,curated,guess,1,
+Samnites,Historical,,pin,,14.5,41.5,Italy,curated,guess,1,https://en.wikipedia.org/wiki/Samnites
+Rise of Romans in Italy,Historical,,country,Italy,,,,curated,guess,1,
+Lobi Resistance to Colonialism,Historical,,group,Burkina Faso; Côte d'Ivoire,,,,curated,guess,1,
+Oyo Empire,Historical,,group,Nigeria; Benin,,,,curated,guess,1,https://en.wikipedia.org/wiki/Oyo_Empire
+Franks,Historical,,group,France; Germany; Belgium; Netherlands; Switzerland,,,,curated,guess,5,https://en.wikipedia.org/wiki/Franks
+Teutonic Order,Historical,,group,Poland; Lithuania; Latvia; Estonia,,,,curated,guess,1,https://en.wikipedia.org/wiki/State_of_the_Teutonic_Order
+Scottish Clans,Historical,,pin,,-4.6,57,United Kingdom,curated,guess,1,https://en.wikipedia.org/wiki/Scottish_clan
+Ancient Romania,Historical,,group,Romania; Moldova,,,,curated,guess,1,
+Crusader States,Historical,,group,Israel; Palestine; Lebanon; Syria,,,,curated,guess,1,https://en.wikipedia.org/wiki/Crusader_states
+Crusader States in Greece,Historical,,country,Greece,,,,curated,guess,1,
+Balkan Tribes,Historical,,group,Slovenia; Croatia; Bosnia and Herz.; Serbia; Montenegro; Kosovo; Albania; Macedonia; Bulgaria; Greece; Romania,,,,curated,guess,1,
+Almoravids,Historical,,group,Morocco; Mauritania; W. Sahara; Algeria; Spain; Portugal,,,,curated,guess,1,https://en.wikipedia.org/wiki/Almoravid_dynasty
+Flevoland & the Zuiderzee Works,Historical,,pin,,5.5,52.5,Netherlands,curated,guess,1,
+Yugoslavia,Historical,,group,Slovenia; Croatia; Bosnia and Herz.; Serbia; Montenegro; Kosovo; Macedonia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Yugoslavia
+Soviet Union,Historical,,group,Russia; Ukraine; Belarus; Moldova; Estonia; Latvia; Lithuania; Georgia; Armenia; Azerbaijan; Kazakhstan; Uzbekistan; Turkmenistan; Kyrgyzstan; Tajikistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Soviet_Union
+Blackfoot Confederacy,Historical,,pin,,-112.5,49.5,Canada,curated,guess,1,https://en.wikipedia.org/wiki/Blackfoot_Confederacy
+Wabanaki Confederacy,Historical,,pin,,-68.5,45.5,United States of America,curated,guess,1,https://en.wikipedia.org/wiki/Wabanaki_Confederacy
+Aztec Empire,Historical,,pin,,-99.1,19.4,Mexico,curated,guess,1,https://en.wikipedia.org/wiki/Aztec_Empire
+Teotihuacan,Historical,,pin,,-98.84,19.69,Mexico,curated,guess,1,
+Holy Roman Empire,Historical,,group,Germany; Austria; Czechia; Switzerland; Netherlands; Belgium; Luxembourg; Liechtenstein; Slovenia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Holy_Roman_Empire
+Byzantine Empire,Historical,,group,Turkey; Greece; Bulgaria; Cyprus; Macedonia; Albania,,,,curated,guess,2,https://en.wikipedia.org/wiki/Byzantine_Empire
+The Romans,Historical,,group,Italy; France; Spain; Portugal; Greece; Turkey; Egypt; Tunisia; Libya; Algeria; Morocco; Syria; Lebanon; Israel; Palestine; Jordan; United Kingdom; Belgium; Switzerland; Austria; Croatia; Slovenia; Serbia; Bulgaria; Romania; Albania; Bosnia and Herz.; Montenegro; Macedonia; Hungary; Cyprus; N. Cyprus; Malta; Luxembourg; Kosovo,,,,curated,guess,1,https://en.wikipedia.org/wiki/Roman_people
+Achaemenid Empire,Historical,,group,Iran; Iraq; Turkey; Syria; Egypt; Afghanistan; Pakistan; Turkmenistan; Uzbekistan; Armenia; Azerbaijan; Jordan; Israel; Palestine; Lebanon,,,,curated,guess,1,https://en.wikipedia.org/wiki/Achaemenid_Empire
+Diadochi,Historical,,group,Greece; Turkey; Egypt; Syria; Iraq; Iran; Macedonia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Diadochi
+Göktürks,Historical,,group,Mongolia; Kazakhstan; Kyrgyzstan; Uzbekistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/G%C3%B6kt%C3%BCrks
+Avar Khaganate,Historical,,group,Hungary; Serbia; Romania; Slovakia; Austria; Croatia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Pannonian_Avars
+Zanzibar,Historical,,pin,,39.3,-6.1,Tanzania,curated,guess,1,https://en.wikipedia.org/wiki/Zanzibar
+Maratha Empire,Historical,,country,India,,,,curated,guess,1,https://en.wikipedia.org/wiki/Maratha_Empire
+Timurids,Historical,,group,Uzbekistan; Iran; Afghanistan; Turkmenistan; Tajikistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Timurid_Empire
+Nanyue,Historical,,pin,,112,23,China,curated,guess,1,https://en.wikipedia.org/wiki/Nanyue
+Khanate of Kazan,Historical,,pin,,49.1,55.8,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Khanate_of_Kazan
+Aq Qoyunlu,Historical,,group,Iran; Iraq; Turkey; Azerbaijan; Armenia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Aq_Qoyunlu
+Uyghur Khaganate,Historical,,country,Mongolia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Uyghur_Khaganate
+Tibetan Empire,Historical,,pin,,91,30.5,China,curated,guess,1,https://en.wikipedia.org/wiki/Tibetan_Empire
+Golden Horde,Historical,,group,Russia; Kazakhstan; Ukraine,,,,curated,guess,1,https://en.wikipedia.org/wiki/Golden_Horde
+Oirats,Historical,,group,Mongolia; Kazakhstan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Oirats
+Yuan Dynasty,Historical,,group,China; Mongolia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Yuan_dynasty
+Chagatai Khanate,Historical,,group,Kazakhstan; Uzbekistan; Turkmenistan; Kyrgyzstan; Tajikistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Chagatai_Khanate
+Ilkhanate,Historical,,group,Iran; Iraq; Azerbaijan; Armenia; Turkmenistan; Afghanistan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Ilkhanate
+Kipchak Turks,Modern Peoples,,group,Kazakhstan; Kyrgyzstan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Kipchaks
+Selkups,Modern Peoples,,pin,,83,60,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Selkup_people
+Dolgans,Modern Peoples,,pin,,100,71,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Dolgans
+Enets,Modern Peoples,,pin,,86,69.5,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Enets
+Five Civilized Tribes,Modern Peoples,,pin,,-96,35.5,United States of America,curated,guess,1,https://en.wikipedia.org/wiki/Five_Civilized_Tribes
+Cherokee,Modern Peoples,,pin,,-84,35,United States of America,curated,guess,1,https://en.wikipedia.org/wiki/Cherokee
+Lezgins,Modern Peoples,,pin,,48,41.6,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Lezgins
+Laks of Dagestan,Modern Peoples,,pin,,47.1,42.1,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Laks_(Caucasus)
+Sorbs,Modern Peoples,,pin,,14.3,51.4,Germany,curated,guess,2,https://en.wikipedia.org/wiki/Sorbs
+Cossacks,Modern Peoples,,group,Ukraine; Russia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Cossacks
+Dargins of Dagestan,Modern Peoples,,pin,,47.4,42.4,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Dargins
+Circassians,Modern Peoples,,pin,,40,44.5,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Circassians
+Sakhas (Yakuts),Modern Peoples,,pin,,129,64,Russia,curated,guess,1,https://en.wikipedia.org/wiki/Yakuts
+Post WW2 conflicts,Wars,,world,,,,,curated,guess,1,
+Ossetian-Ingush Conflict,Wars,,pin,,44.8,43.1,Russia,curated,guess,1,https://en.wikipedia.org/wiki/East_Prigorodny_conflict
+Lebanese Civil War,Wars,,country,Lebanon,,,,curated,guess,1,https://en.wikipedia.org/wiki/Lebanese_Civil_War
+2003 Invasion of Iraq,Wars,,country,Iraq,,,,curated,guess,1,https://en.wikipedia.org/wiki/2003_invasion_of_Iraq
+Iraq War (2003-2011),Wars,,country,Iraq,,,,curated,guess,1,
+Russo-Japanese War,Wars,,pin,,123.5,40.5,China,curated,guess,1,https://en.wikipedia.org/wiki/Russo-Japanese_War
+Japanese Invasion of Taiwan,Wars,,country,Taiwan,,,,curated,guess,1,
+American Civil War,Wars,,country,United States of America,,,,curated,guess,1,https://en.wikipedia.org/wiki/American_Civil_War
+Syrian Civil War and Spillover,Wars,,group,Syria; Iraq; Lebanon,,,,curated,guess,1,https://en.wikipedia.org/wiki/Syrian_civil_war
+Hittite-Syrian Wars,Wars,,group,Turkey; Syria,,,,curated,guess,1,
+Roman Conquest of Anatolia,Wars,,country,Turkey,,,,curated,guess,1,
+Roman conquest of Greece,Wars,,country,Greece,,,,curated,guess,1,
+Cold War,Wars,,world,,,,,curated,guess,1,https://en.wikipedia.org/wiki/Cold_War
+Yugoslav Wars,Wars,,group,Slovenia; Croatia; Bosnia and Herz.; Serbia; Montenegro; Kosovo; Macedonia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Yugoslav_Wars
+Franco-Prussian War,Wars,,group,France; Germany,,,,curated,guess,1,https://en.wikipedia.org/wiki/Franco-Prussian_War
+Austro-Prussian War,Wars,,group,Austria; Germany; Czechia,,,,curated,guess,1,https://en.wikipedia.org/wiki/Austro-Prussian_War
+Napoleonic Wars,Wars,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,https://en.wikipedia.org/wiki/Napoleonic_Wars
+Campaign of France 1813-14,Wars,,group,France; Germany,,,,curated,guess,1,
+French Revolution,Wars,,country,France,,,,curated,guess,1,https://en.wikipedia.org/wiki/French_Revolution
+Modern Europe,Wars,Lists of Conflicts,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+Invasion of Belgium & Luxembourg,Wars,WW1 (1914-1918),group,Belgium; Luxembourg,,,,curated,guess,1,
+Revolution Alsace-Lorraine,Wars,WW1 (1914-1918),pin,,7.4,48.6,France,curated,guess,1,
+Eastern European Front,Wars,WW1 (1914-1918),group,Poland; Lithuania; Latvia; Belarus; Ukraine; Romania,,,,curated,guess,2,
+Armenian Highland & Caucasus,Wars,WW1 (1914-1918),group,Armenia; Turkey; Georgia; Azerbaijan,,,,curated,guess,1,
+Burundi and Rwanda,Wars,WW1 (1914-1918),group,Burundi; Rwanda,,,,curated,guess,1,
+Benin and Togo,Wars,WW1 (1914-1918),group,Benin; Togo,,,,curated,guess,1,
+Mali and Burkina Faso,Wars,WW1 (1914-1918),group,Mali; Burkina Faso,,,,curated,guess,1,
+Mozambique,Wars,WW1 (1914-1918),country,Mozambique,,,,curated,guess,1,
+Middle East,Wars,WW1 (1914-1918),group,Turkey; Syria; Lebanon; Israel; Palestine; Jordan; Iraq; Iran; Saudi Arabia; Yemen; Oman; United Arab Emirates; Qatar; Bahrain; Kuwait; Egypt; Cyprus; N. Cyprus,,,,curated,guess,1,
+Operation Barbarossa,Wars,WW2 (1939-1945),group,Russia; Ukraine; Belarus; Lithuania; Latvia; Estonia,,,,curated,guess,1,
+War of Annih. (B. of Stalingrad & Caucasus),Wars,WW2 (1939-1945),pin,,44.5,48.7,Russia,curated,guess,1,
+North Africa,Wars,WW2 (1939-1945),group,Libya; Egypt; Tunisia; Algeria; Morocco,,,,curated,guess,1,
+War of Annihilation (Siege of Leningrad),Wars,WW2 (1939-1945),pin,,30.3,59.9,Russia,curated,guess,1,
+Western European Front,Wars,WW2 (1939-1945),group,France; Belgium; Netherlands; Luxembourg; Germany,,,,curated,guess,1,
+Pacific War,Wars,WW2 (1939-1945),group,Japan; China; Philippines; Indonesia; Papua New Guinea; Myanmar; Malaysia; Thailand; Vietnam; Solomon Is.,,,,curated,guess,1,
+European Front,Wars,Revolutions of 1917-1923,group,Russia; Ukraine; Belarus; Poland; Finland; Estonia; Latvia; Lithuania,,,,curated,guess,1,
+Central Asian Front,Wars,Revolutions of 1917-1923,group,Kazakhstan; Uzbekistan; Turkmenistan; Kyrgyzstan; Tajikistan,,,,curated,guess,1,
+Far Eastern Front,Wars,Revolutions of 1917-1923,pin,,135,48.5,Russia,curated,guess,1,
+Silesian Uprisings,Wars,Revolutions of 1917-1923,pin,,18.7,50.3,Poland,curated,guess,1,
+Seven Years' War,Wars,Seven Years' War (1756-1763),group,United Kingdom; France; Germany; Austria; Russia; Canada; United States of America; India; Spain; Portugal; Sweden,,,,curated,guess,1,https://en.wikipedia.org/wiki/Seven_Years%27_War
+French and Indian War,Wars,Seven Years' War (1756-1763),group,United States of America; Canada,,,,curated,guess,1,https://en.wikipedia.org/wiki/French_and_Indian_War
+War of 1812,Wars,War of 1812 (1812-1815),group,United States of America; Canada,,,,curated,guess,1,https://en.wikipedia.org/wiki/War_of_1812
+Gulf of Mexico,Wars,War of 1812 (1812-1815),pin,,-89,29.8,United States of America,curated,guess,1,
+Chesapeake Bay,Wars,War of 1812 (1812-1815),pin,,-76.2,38.5,United States of America,curated,guess,1,
+Two Chechen Wars,Wars,Chechen-Russian Conflict (recent phase; 1991-2017),pin,,45.7,43.2,Russia,curated,guess,3,
+Chechen Civil War,Wars,Chechen-Russian Conflict (recent phase; 1991-2017),pin,,45.6,43,Russia,curated,guess,1,
+Battle of Grozny 1994,Wars,Chechen-Russian Conflict (recent phase; 1991-2017),pin,,45.7,43.32,Russia,curated,guess,1,
+War of Dagestan & Chechen Insurgency,Wars,Chechen-Russian Conflict (recent phase; 1991-2017),pin,,46.6,42.9,Russia,curated,guess,1,
+Donbas War,Wars,Russo-Ukrainian War (2014-present),pin,,38.5,48.1,Ukraine,curated,guess,1,
+Russian invasion of Ukraine,Wars,Russo-Ukrainian War (2014-present),country,Ukraine,,,,curated,guess,1,
+Edwardian Phase,Wars,Hundred Years' War (1337-1453),group,France; United Kingdom,,,,curated,guess,1,
+Peace of Brétigny,Wars,Hundred Years' War (1337-1453),group,France; United Kingdom,,,,curated,guess,1,
+Caroline Phase,Wars,Hundred Years' War (1337-1453),group,France; United Kingdom,,,,curated,guess,1,
+Truce of Leulinghem,Wars,Hundred Years' War (1337-1453),group,France; United Kingdom,,,,curated,guess,1,
+First Italian War,Wars,Italian Wars,group,Italy; France,,,,curated,guess,1,
+Second Italian War,Wars,Italian Wars,group,Italy; France,,,,curated,guess,1,
+Third Italian War,Wars,Italian Wars,group,Italy; France,,,,curated,guess,1,
+1948 Arab-Israeli War,Wars,Arab–Israeli conflict (1948-present),group,Israel; Palestine; Egypt; Jordan; Syria; Lebanon,,,,curated,guess,2,https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War
+Suez Crisis,Wars,Arab–Israeli conflict (1948-present),group,Egypt; Israel,,,,curated,guess,1,https://en.wikipedia.org/wiki/Suez_Crisis
+Six-Day War,Wars,Arab–Israeli conflict (1948-present),group,Israel; Palestine; Egypt; Syria; Jordan,,,,curated,guess,1,https://en.wikipedia.org/wiki/Six-Day_War
+1968 Israeli invasion of Jordan,Wars,Arab–Israeli conflict (1948-present),country,Jordan,,,,curated,guess,1,
+Yom Kippur War,Wars,Arab–Israeli conflict (1948-present),group,Israel; Egypt; Syria,,,,curated,guess,1,https://en.wikipedia.org/wiki/Yom_Kippur_War
+2009 Gaza War,Wars,Israeli-Palestinian Conflict (c. 19th century-present),pin,,34.4,31.45,Palestine,curated,guess,1,https://en.wikipedia.org/wiki/Gaza_War_(2008%E2%80%932009)
+2014 Gaza War,Wars,Israeli-Palestinian Conflict (c. 19th century-present),pin,,34.4,31.45,Palestine,curated,guess,1,https://en.wikipedia.org/wiki/2014_Gaza_War
+Red River Resistance,Wars,Rebellions/Resistances,pin,,-97.1,49.9,Canada,curated,guess,1,https://en.wikipedia.org/wiki/Red_River_Rebellion
+North-West Rebellion,Wars,Rebellions/Resistances,pin,,-106.5,52.5,Canada,curated,guess,1,https://en.wikipedia.org/wiki/North-West_Rebellion
+Christianity,Spread of Religon,,world,,,,,curated,guess,1,https://en.wikipedia.org/wiki/Spread_of_Christianity
+Coll. of Han and the Three Kingdoms P.,Other,,country,China,,,,curated,guess,1,
+Coll. of the Qin Dy. & the Chu-Han c.,Other,,country,China,,,,curated,guess,1,
+More wars and etc.,Other,,world,,,,,curated,guess,1,
+Muslim Mapping,Other,,group,Turkey; Syria; Lebanon; Israel; Palestine; Jordan; Iraq; Iran; Saudi Arabia; Yemen; Oman; United Arab Emirates; Qatar; Bahrain; Kuwait; Egypt; Cyprus; N. Cyprus; Morocco; Algeria; Tunisia; Libya; Mauritania; W. Sahara; Afghanistan; Pakistan,,,,curated,guess,1,
+Rise of the Safavids,Other,,group,Iran; Azerbaijan,,,,curated,guess,1,
+Western Schism,Other,,group,France; Belgium; Netherlands; Luxembourg; Germany; Switzerland; Austria; United Kingdom; Ireland; Spain; Portugal; Italy; Monaco; Liechtenstein; Andorra,,,,curated,guess,1,https://en.wikipedia.org/wiki/Western_Schism
+European Govt Types,Other,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+Spread of Writing,Other,,world,,,,,curated,guess,1,
+Breakup of Yugoslavia,Other,,group,Slovenia; Croatia; Bosnia and Herz.; Serbia; Montenegro; Kosovo; Macedonia,,,,curated,guess,1,
+Unification of Italy,Other,,country,Italy,,,,curated,guess,1,https://en.wikipedia.org/wiki/Unification_of_Italy
+Unification of Germany,Other,,country,Germany,,,,curated,guess,1,https://en.wikipedia.org/wiki/Unification_of_Germany
+Reunification of Germany,Other,,country,Germany,,,,curated,guess,1,https://en.wikipedia.org/wiki/German_reunification
+Fall of the WRE,Other,,group,Italy; France; Spain; Portugal; United Kingdom; Tunisia; Algeria; Morocco; Belgium; Switzerland; Austria; Croatia; Slovenia; Luxembourg,,,,curated,guess,1,https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire
+Collapse of the German Empire,Other,,group,Germany; Poland,,,,curated,guess,1,
+Europe,Archaeological Cultures,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,2,
+China,Archaeological Cultures,,country,China,,,,curated,guess,1,
+Taiwan,Archaeological Cultures,,country,Taiwan,,,,curated,guess,1,
+London,Growth of cities,,pin,,-0.12,51.5,United Kingdom,curated,guess,1,https://en.wikipedia.org/wiki/London
+NYC,Growth of cities,,pin,,-74,40.7,United States of America,curated,guess,1,https://en.wikipedia.org/wiki/New_York_City
+Cossack Hosts and more,Best still maps,,group,Ukraine; Russia,,,,curated,guess,1,
+1880 Africa and more,Best still maps,,group,Algeria; Angola; Benin; Botswana; Burkina Faso; Burundi; Cameroon; Cabo Verde; Central African Rep.; Chad; Comoros; Congo; Dem. Rep. Congo; Djibouti; Egypt; Eq. Guinea; Eritrea; eSwatini; Ethiopia; Gabon; Gambia; Ghana; Guinea; Guinea-Bissau; Côte d'Ivoire; Kenya; Lesotho; Liberia; Libya; Madagascar; Malawi; Mali; Mauritania; Mauritius; Morocco; Mozambique; Namibia; Niger; Nigeria; Rwanda; São Tomé and Principe; Senegal; Seychelles; Sierra Leone; Somalia; Somaliland; South Africa; S. Sudan; Sudan; Tanzania; Togo; Tunisia; Uganda; W. Sahara; Zambia; Zimbabwe; Saint Helena,,,,curated,guess,1,
+Pre Col. Namibia,Best still maps,,country,Namibia,,,,curated,guess,1,
+Reservations,Best still maps,,country,United States of America,,,,curated,guess,1,
+Scythia and Scythian migrations,Best still maps,,group,Ukraine; Russia; Kazakhstan,,,,curated,guess,2,
+European Archaeological Cultures,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+80+ World maps (Simplified),Best still maps,,world,,,,,curated,guess,1,
+OTL Maps,Best still maps,,world,,,,,curated,guess,1,
+BAM maps and etc.,Best still maps,,world,,,,,curated,guess,1,
+Indonesia 1596,Best still maps,,country,Indonesia,,,,curated,guess,1,
+14th cent. Novgorod,Best still maps,,pin,,31.3,58.5,Russia,curated,guess,1,
+World Aug 1 1800,Best still maps,,world,,,,,curated,guess,1,
+Middle Assyrian Empire,Best still maps,,group,Iraq; Syria; Turkey,,,,curated,guess,1,
+China Dec 6 1930,Best still maps,,country,China,,,,curated,guess,1,
+China Dec 25 1915,Best still maps,,country,China,,,,curated,guess,1,
+Lihyanite Kingdom,Best still maps,,pin,,37.9,26.6,Saudi Arabia,curated,guess,1,
+1727 Maghreb,Best still maps,,group,Morocco; Algeria; Tunisia; Libya; Mauritania; W. Sahara,,,,curated,guess,1,
+c. 1286 Scotland,Best still maps,,pin,,-4.2,56.8,United Kingdom,curated,guess,1,
+1673 Eurasia,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey; Afghanistan; Armenia; Azerbaijan; Bahrain; Bangladesh; Bhutan; Brunei; Cambodia; China; Georgia; Hong Kong; Macao; India; Indonesia; Iran; Iraq; Israel; Japan; Jordan; Kazakhstan; Kuwait; Kyrgyzstan; Laos; Lebanon; Malaysia; Maldives; Mongolia; Myanmar; Nepal; North Korea; Oman; Pakistan; Palestine; Philippines; Qatar; Saudi Arabia; Singapore; South Korea; Sri Lanka; Syria; Taiwan; Tajikistan; Thailand; Timor-Leste; Turkey; Turkmenistan; United Arab Emirates; Uzbekistan; Vietnam; Yemen; Siachen Glacier,,,,curated,guess,1,
+867 Arabia,Best still maps,,group,Saudi Arabia; Yemen; Oman; United Arab Emirates; Qatar; Bahrain; Kuwait,,,,curated,guess,1,
+1789 Balochistan,Best still maps,,pin,,65.5,28,Pakistan,curated,guess,1,
+Native American territory,Best still maps,,country,United States of America,,,,curated,guess,1,
+Ancient Europe,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+WW1 Polish Microstates,Best still maps,,country,Poland,,,,curated,guess,1,
+1699 Habsburgs,Best still maps,,group,Austria; Hungary; Czechia; Slovakia; Slovenia; Croatia; Spain; Belgium; Netherlands,,,,curated,guess,1,
+Kingdom of Italy (900s AD),Best still maps,,country,Italy,,,,curated,guess,1,
+1422 Teutonic Order,Best still maps,,group,Poland; Lithuania; Latvia; Estonia,,,,curated,guess,1,
+Duchy of Courland-Semigallia,Best still maps,,country,Latvia,,,,curated,guess,1,
+Migrations and etc.,Best still maps,,world,,,,,curated,guess,1,
+1444 HRE,Best still maps,,group,Germany; Austria; Czechia; Switzerland; Netherlands; Belgium; Luxembourg; Liechtenstein; Slovenia,,,,curated,guess,1,
+1836 Europe,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+1444 Iberia,Best still maps,,group,Spain; Portugal; Andorra,,,,curated,guess,1,
+1444 Europe,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+Europe Aug 31 1939,Best still maps,,group,Albania; Andorra; Austria; Belarus; Belgium; Bosnia and Herz.; Bulgaria; Croatia; Cyprus; Czechia; Denmark; Estonia; Faeroe Is.; Finland; France; Germany; Greece; Hungary; Iceland; Ireland; Isle of Man; Italy; Kosovo; Latvia; Liechtenstein; Lithuania; Luxembourg; Malta; Moldova; Monaco; Montenegro; Netherlands; Macedonia; N. Cyprus; Norway; Poland; Portugal; Romania; Russia; San Marino; Serbia; Slovakia; Slovenia; Spain; Sweden; Switzerland; Ukraine; United Kingdom; Vatican; Åland; Guernsey; Jersey,,,,curated,guess,1,
+Territorial Evolution/Changes and etc.,Best still maps,,world,,,,,curated,guess,1,
+French invasion of Russia,Best still maps,,group,Russia; Belarus; Lithuania,,,,curated,guess,1,
+French possesion in Asia,Best still maps,,group,Vietnam; Laos; Cambodia,,,,curated,guess,1,
+French possesion in Southern Africa,Best still maps,,group,Madagascar; Comoros,,,,curated,guess,1,
+Kurdish Emirates,Best still maps,,pin,,43.5,37,Iraq,curated,guess,1,
+Southeastern USA,Best still maps,,pin,,-84,33,United States of America,curated,guess,1,
+Rome and Italy,Best still maps,,country,Italy,,,,curated,guess,1,
+Ongoing Wars,Best interactive maps,,world,,,,,curated,guess,1,
+Land Ownership in Medieval Hungary,Best interactive maps,,group,Hungary; Slovakia; Romania; Croatia; Serbia,,,,curated,guess,1,
